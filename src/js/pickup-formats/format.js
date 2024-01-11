@@ -38,7 +38,6 @@ export const _input_pkg = (container) => {
 
             b.addEventListener('input', () => {
                 tableData[c][i] = b.value; 
-                console.log(tableData); 
             }); 
 
             b.addEventListener('change', () => {
@@ -53,7 +52,6 @@ export const _input_pkg = (container) => {
                                 .join('\n')
                         ); 
                     }).join('\n\n'); 
-                console.log(document.querySelector(`#${container.id} > textarea`).value)
             })
         }); 
     }); 
