@@ -29,3 +29,9 @@ input[type = number]{
 a {
     text-decoration: none;
 }
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
