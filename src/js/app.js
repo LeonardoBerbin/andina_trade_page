@@ -74,7 +74,7 @@ const mobile = () => {
 const desktop = () => {
     setTimeout(function(){
         document.querySelector('header > img').style.width = '0'; 
-        document.querySelector('header').style.height = '5%'; 
+        document.querySelector('header').style.minHeight = '5%'; 
         setTimeout(function(){
             document.querySelector('header').style.alignItems = 'flex-start'; 
             document.querySelector('header > h1').style.minWidth = '0'; 
