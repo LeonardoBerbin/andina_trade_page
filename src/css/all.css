@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 's';
+    src: url('../Exo_2/Exo2-VariableFont_wght.ttf') format('truetype');
+}
+
+* {
+    font-family: 's';
+    font-weight: 600 !important;
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+    width: .35rem;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: orangered;
+}
+
+input[type = number]::-webkit-inner-spin-button,
+input[type = number]::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+
+input[type = number]{
+    -moz-appearance: textfield;
+}
+
+a {
+    text-decoration: none;
+}

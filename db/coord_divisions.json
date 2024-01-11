@@ -1,0 +1,10130 @@
+{
+ "references": {
+  "ID_ORIGEN": [
+   "ID",
+   "./db/cities.json"
+  ],
+  "ID_DESTINATION": [
+   "ID",
+   "./db/cities.json"
+  ],
+  "ZONE": [
+   "ZONE",
+   "./db/czrates.json"
+  ],
+  "JOURNEY": [
+   "JOURNEY",
+   "./db/cjrates.json"
+  ]
+ },
+ "data": [
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125628,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J09",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125629,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125630,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125631,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125632,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125633,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125634,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125635,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125636,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125637,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125638,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125639,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125640,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125641,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125642,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125643,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125644,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125645,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125646,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125647,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125648,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125649,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125650,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125651,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125652,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125653,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125654,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125655,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125656,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125657,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125658,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125659,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125660,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125661,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125662,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125663,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125664,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125665,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125666,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125667,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125668,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125669,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125670,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125671,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125672,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125673,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125674,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125675,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125676,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125677,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125678,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125679,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125680,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125681,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125682,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125683,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125684,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125685,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125686,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125687,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125688,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125689,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125690,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125691,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125692,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125693,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125694,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125695,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125696,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125697,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125698,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125699,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125700,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125701,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125702,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125703,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125704,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125705,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125706,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125707,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125708,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125709,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125710,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125711,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125712,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125713,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125714,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125715,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125716,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125717,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125718,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125719,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125720,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125721,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125722,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125723,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125724,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125725,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125726,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125727,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125728,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125729,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125730,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125731,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125732,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125733,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125734,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125735,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125736,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125737,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125738,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125739,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125740,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125741,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125742,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125743,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125744,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125745,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125746,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125747,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125748,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125749,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125750,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125751,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125752,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125753,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125754,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125755,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125756,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125757,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125758,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125759,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125760,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125761,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125762,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125763,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125764,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125765,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125766,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125767,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125768,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125769,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125770,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125771,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125772,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125773,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125774,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125775,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125776,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125777,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125778,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125779,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125780,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125781,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125782,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125783,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125784,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125785,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125786,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125787,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125788,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125789,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125790,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125791,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125792,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125793,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125794,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125795,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125796,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125797,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125798,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125799,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125800,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125801,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125802,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125803,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125804,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125805,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125806,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125807,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125808,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125809,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125810,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125811,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125812,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125813,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125814,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125815,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125816,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125817,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125818,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125819,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125820,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125821,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125822,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125823,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125824,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125825,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125826,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125827,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125828,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125829,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125830,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125831,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125832,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125833,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125834,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125835,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125836,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125837,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125838,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125839,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125840,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125841,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125842,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125843,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125844,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125845,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125846,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125847,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125848,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125849,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125850,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125851,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125852,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125853,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125854,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125855,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125856,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125857,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125858,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125859,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125860,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125861,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125862,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125863,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125864,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125865,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125866,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125867,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125868,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125869,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125870,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125871,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125872,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125873,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125874,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125875,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125876,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125877,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125878,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125879,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125880,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125881,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125882,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125883,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125884,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125885,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125886,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125887,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125888,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125889,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125890,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125891,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125892,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125893,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125894,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125895,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125896,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125897,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125898,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125899,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125900,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125901,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125902,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125903,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125904,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125905,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125906,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125907,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125908,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125909,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125910,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125911,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125912,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125913,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125914,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125915,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125916,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125917,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125918,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125919,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125920,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125921,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125922,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125923,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125924,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125925,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125926,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125927,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125928,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125929,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125930,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125931,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125932,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125933,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125934,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125935,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125936,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125937,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125938,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125939,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125940,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125941,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125942,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125943,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125944,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125945,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125946,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125947,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125948,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125949,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125950,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125951,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125952,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125953,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125954,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125955,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125956,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125957,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125958,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125959,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125960,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125961,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125962,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125963,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125964,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125965,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125966,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125967,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125968,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125969,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125970,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125971,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125972,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125973,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125974,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125975,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125976,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125977,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125978,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125979,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125980,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125981,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125982,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125983,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125984,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125985,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125986,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125987,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125988,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125989,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125990,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125991,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125992,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125993,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125994,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125995,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125996,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125997,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125998,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 125999,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126000,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126001,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126002,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126003,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126004,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126005,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126006,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126007,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126008,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126009,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126010,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126011,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126012,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126013,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126014,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126015,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126016,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126017,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126018,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126019,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126020,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126021,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126022,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126023,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126024,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126025,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126026,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126027,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126028,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126029,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126030,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126031,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126032,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126033,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126034,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126035,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126036,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126037,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126038,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126039,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126040,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126041,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126042,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126043,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126044,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126045,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126046,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126047,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126048,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126049,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126050,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126051,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126052,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126053,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126054,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126055,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126056,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126057,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126058,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126059,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126060,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126061,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126062,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126063,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126064,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126065,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126066,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126067,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126068,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126069,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126070,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126071,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126072,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126073,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126074,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126075,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126076,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126077,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126078,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126079,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126080,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126081,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126082,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126083,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126084,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126085,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126086,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126087,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126088,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126089,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126090,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126091,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126092,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126093,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126094,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126095,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126096,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126097,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126098,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126099,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126100,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126101,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126102,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126103,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126104,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126105,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126106,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126107,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126108,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126109,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126110,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126111,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126112,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126113,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126114,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126115,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126116,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126117,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126118,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126119,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126120,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126121,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126122,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126123,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126124,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126125,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126126,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126127,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126128,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126129,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126130,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126131,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126132,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126133,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126134,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126135,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126136,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126137,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126138,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126139,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126140,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126141,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126142,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126143,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126144,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126145,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126146,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126147,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126148,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126149,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126150,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126151,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126152,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126153,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126154,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126155,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126156,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126157,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126158,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126159,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126160,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126161,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126162,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126163,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126164,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126165,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126166,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126167,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126168,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126169,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126170,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126171,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126172,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126173,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126174,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126175,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126176,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126177,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126178,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126179,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126180,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126181,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126182,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126183,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126184,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126185,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126186,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126187,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126188,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126189,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126190,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126191,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126192,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126193,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126194,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126195,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126196,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126197,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126198,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126199,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126200,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126201,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126202,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126203,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126204,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126205,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126206,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126207,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126208,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126209,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126210,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126211,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126212,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126213,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126214,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126215,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126216,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126217,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126218,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126219,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126220,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126221,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126222,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126223,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126224,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126225,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126226,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126227,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126228,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126229,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126230,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126231,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126232,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126233,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126234,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126235,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126236,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126237,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126238,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126239,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126240,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 10
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126241,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126242,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126243,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126244,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126245,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126246,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126247,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 10
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126248,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126249,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126250,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126251,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126252,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126253,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126254,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126255,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126256,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126257,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126258,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126259,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 10
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126260,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126261,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126262,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126263,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126264,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126265,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126266,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126267,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126268,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126269,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126270,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126271,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126272,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126273,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126274,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126275,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126276,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126277,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126278,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126279,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126280,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126281,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126282,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126283,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126284,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126285,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126286,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126287,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126288,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126289,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126290,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126291,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126292,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126293,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126294,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126295,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126296,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126297,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126298,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126299,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126300,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126301,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126302,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126303,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126304,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126305,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126306,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126307,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126308,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126309,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126310,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126311,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126312,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126313,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126314,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126315,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126316,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126317,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126318,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126319,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126320,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126321,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126322,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126323,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126324,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126325,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126326,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126327,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126328,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126329,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126330,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126331,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126332,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126333,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 10
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126334,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126335,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126336,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126337,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126338,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126339,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126340,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126341,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126342,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126343,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126344,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126345,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126346,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126347,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126348,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126349,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126350,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126351,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126352,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126353,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126354,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126355,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126356,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126357,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126358,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126359,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126360,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126361,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126362,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126363,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126364,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126365,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126366,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126367,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126368,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126369,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126370,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126371,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126372,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126373,
+   "ZONE": "Nacional",
+   "JOURNEY": "J03",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126374,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126375,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126376,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126377,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126378,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126379,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126380,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126381,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126382,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126383,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126384,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126385,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126386,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126387,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126388,
+   "ZONE": "Regional",
+   "JOURNEY": "J02",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126389,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126390,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126391,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126392,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126393,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126394,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126395,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126396,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126397,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126398,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126399,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126400,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126401,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126402,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126403,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126404,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126405,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126406,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126407,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126408,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126409,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126410,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126411,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126412,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126413,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126414,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126415,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126416,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126417,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126418,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126419,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126420,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126421,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126422,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126423,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126424,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126425,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126426,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126427,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126428,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126429,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126430,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126431,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126432,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126433,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126434,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126435,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126436,
+   "ZONE": "Nacional",
+   "JOURNEY": "J03",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126437,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126438,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126439,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126440,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126441,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126442,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126443,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126444,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126445,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126446,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126447,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126448,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126449,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126450,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126451,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126452,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126453,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126454,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126455,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126456,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126457,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126458,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126459,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126460,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126461,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126462,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126463,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126464,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126465,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126466,
+   "ZONE": "Local",
+   "JOURNEY": "J01",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126467,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126468,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126469,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126470,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126471,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126472,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126473,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126474,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126475,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126476,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126477,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126478,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126479,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126480,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126481,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126482,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126483,
+   "ZONE": "Regional",
+   "JOURNEY": "J02",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126484,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126485,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126486,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126487,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126488,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126489,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126490,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126491,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126492,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126493,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126494,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126495,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126496,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126497,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126498,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126499,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126500,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126501,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126502,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126503,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126504,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126505,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126506,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126507,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126508,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126509,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126510,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126511,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126512,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126513,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126514,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126515,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126516,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126517,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126518,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126519,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126520,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126521,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126522,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126523,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126524,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126525,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126526,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126527,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126528,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126529,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126530,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126531,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126532,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126533,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126534,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126535,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126536,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126537,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126538,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126539,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126540,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126541,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126542,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126543,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126544,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126545,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126546,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126547,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126548,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126549,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126550,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126551,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126552,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126553,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126554,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126555,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126556,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126557,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126558,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126559,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126560,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126561,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126562,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126563,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126564,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126565,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126566,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126567,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126568,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126569,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126570,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126571,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126572,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126573,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126574,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126575,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126576,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126577,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126578,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126579,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126580,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126581,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126582,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126583,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126584,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126585,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126586,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126587,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126588,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126589,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126590,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126591,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126592,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126593,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126594,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126595,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126596,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126597,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126598,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126599,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126600,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126601,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126602,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126603,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126604,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126605,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126606,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126607,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126608,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126609,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126610,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126611,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 16
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126612,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126613,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126614,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126615,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126616,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126617,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126618,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126619,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126620,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126621,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126622,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126623,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126624,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126625,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126626,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126627,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126628,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126629,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126630,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126631,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126632,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126633,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126634,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126635,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126636,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126637,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126638,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126639,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126640,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126641,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126642,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126643,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126644,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126645,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126646,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126647,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126648,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126649,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126650,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126651,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126652,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126653,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126654,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126655,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126656,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126657,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126658,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126659,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126660,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126661,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126662,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126663,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126664,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126665,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126666,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126667,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126668,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126669,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126670,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126671,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126672,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126673,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126674,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126675,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126676,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126677,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126678,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126679,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126680,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126681,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126682,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126683,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126684,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126685,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126686,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126687,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126688,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126689,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126690,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126691,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126692,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126693,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126694,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126695,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126696,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126697,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126698,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126699,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126700,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126701,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126702,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126703,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126704,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126705,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126706,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126707,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126708,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126709,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126710,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126711,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126712,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126713,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126714,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126715,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 9
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126716,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126717,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126718,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126719,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126720,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126721,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126722,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126723,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126724,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126725,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126726,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126727,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126728,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126729,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126730,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126731,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126732,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126733,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126734,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126735,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126736,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126737,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126738,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126739,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126740,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126741,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126742,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126743,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126744,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126745,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126746,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126747,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126748,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126749,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126750,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126751,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126752,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126753,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126754,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126755,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126756,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126757,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126758,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126759,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126760,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126761,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126762,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126763,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126764,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126765,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126766,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126767,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126768,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126769,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126770,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126771,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126772,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126773,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126774,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126775,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126776,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126777,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126778,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126779,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126780,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126781,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126782,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126783,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126784,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126785,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126786,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126787,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126788,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126789,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126790,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126791,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126792,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126793,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126794,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126795,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126796,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126797,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126798,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126799,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126800,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126801,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126802,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J09",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126803,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J09",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126804,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J09",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126805,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126806,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126807,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126808,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126809,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126810,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126811,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126812,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126813,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126814,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126815,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126816,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126817,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126818,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126819,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126820,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126821,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126822,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126823,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126824,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126825,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126826,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126827,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126828,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126829,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126830,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126831,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126832,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126833,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126834,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126835,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126836,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126837,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126838,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126839,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126840,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126841,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126842,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126843,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126844,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126845,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126846,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126847,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126848,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126849,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126850,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126851,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126852,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126853,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126854,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126855,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126856,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126857,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126858,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126859,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126860,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126861,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126862,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126863,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126864,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126865,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126866,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126867,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126868,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126869,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126870,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126871,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126872,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126873,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126874,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126875,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126876,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126877,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126878,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126879,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126880,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126881,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126882,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126883,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126884,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126885,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126886,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126887,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126888,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126889,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126890,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126891,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126892,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126893,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126894,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126895,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126896,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126897,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126898,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126899,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126900,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126901,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126902,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126903,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126904,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126905,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126906,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126907,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126908,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126909,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126910,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126911,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126912,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126913,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126914,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126915,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126916,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126917,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126918,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126919,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126920,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126921,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126922,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126923,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126924,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126925,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126926,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126927,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126928,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126929,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126930,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126931,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126932,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126933,
+   "ZONE": "Nacional",
+   "JOURNEY": "J03",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126934,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126935,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126936,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126937,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126938,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126939,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126940,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126941,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126942,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126943,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126944,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126945,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126946,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126947,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126948,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126949,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126950,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126951,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126952,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126953,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126954,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126955,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126956,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126957,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126958,
+   "ZONE": "Nacional",
+   "JOURNEY": "J05",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126959,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126960,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126961,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126962,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126963,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126964,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126965,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126966,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126967,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126968,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126969,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126970,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126971,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126972,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126973,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126974,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126975,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126976,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126977,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126978,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126979,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126980,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126981,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126982,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126983,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126984,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126985,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126986,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126987,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126988,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126989,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126990,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126991,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126992,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126993,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126994,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126995,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126996,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126997,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126998,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 126999,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127000,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127001,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127002,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127003,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127004,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127005,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127006,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127007,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127008,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127009,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127010,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127011,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127012,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127013,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127014,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127015,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127016,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127017,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127018,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127019,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127020,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127021,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127022,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127023,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 4
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127024,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127025,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127026,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127027,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127028,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127029,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127030,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127031,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127032,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127033,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127034,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127035,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127036,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127037,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127038,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127039,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127040,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127041,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127042,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127043,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127044,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127045,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127046,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127047,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127048,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127049,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127050,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127051,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127052,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127053,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127054,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127055,
+   "ZONE": "Zonal",
+   "JOURNEY": "J07",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127056,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127057,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 6
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127058,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127059,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127060,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 5
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127061,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 7
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127062,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 2
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127063,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127064,
+   "ZONE": "Otras",
+   "JOURNEY": "J08",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127065,
+   "ZONE": "Nacional",
+   "JOURNEY": "J04",
+   "DT": 1
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127066,
+   "ZONE": "Nacional",
+   "JOURNEY": "J06",
+   "DT": 3
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127067,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127068,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127069,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127070,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 8
+  },
+  {
+   "ID_ORIGEN": 126325,
+   "ID_DESTINATION": 127071,
+   "ZONE": "Destinos Especiales",
+   "JOURNEY": "J10",
+   "DT": 15
+  }
+ ]
+}

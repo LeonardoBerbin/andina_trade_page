@@ -1,0 +1,462 @@
+* {
+  scroll-behavior: smooth;
+}
+
+/* Transiciones y estilos generales para elementos de interacción */
+a,
+button {
+  transition: transform 0.1s;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a:active,
+button:active {
+  transform: scale(0.95);
+}
+
+/* Estilos generales para HTML y body */
+html {
+  font-size: calc((100vw + 100vh) / 2 * 0.027);
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Estilos del encabezado */
+header {
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  padding: 0;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: min-height 0.5s;
+}
+
+header > h1 {
+  width: auto;
+  padding: 0;
+  margin: 0;
+  font-size: 1rem;
+  color: white;
+  text-align: center;
+}
+
+header > img {
+  width: 50%;
+  height: 50%;
+}
+
+/* Estilos de la sección principal */
+main {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+
+/* Estilos de la sección de bienvenida */
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+.welcome > h1,
+.welcome > h3 {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.welcome > h3 {
+  margin-bottom: 0.5rem;
+}
+
+.welcome > h1 {
+  margin: 1rem 0;
+  color: orangered;
+}
+
+.welcome span {
+  color: blue;
+  margin: 0;
+}
+
+.welcome > a {
+  width: 70%;
+  aspect-ratio: 1 / 0.3;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  background-color: orangered;
+  border: 0.1rem solid white;
+  color: white;
+  box-shadow: 0 0 2rem 0.01rem grey;
+  font-weight: bold;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Estilos del quotér */
+.quoter {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  overflow: hidden;
+}
+
+.quoter legend {
+  width: 100%;
+}
+
+/* -- Destino y valor declarado */
+.origen {
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+  color: orangered;
+  font-weight: bold;
+}
+
+.ddv-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.dest,
+.dval {
+  width: 100%;
+  aspect-ratio: 1 / 0.1;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  box-shadow: 0 0 0.5rem 0.01rem #aaa;
+  color: teal;
+  font-weight: bold;
+  border: 0.1rem solid black;
+}
+
+.dest > input,
+.dval > input {
+  width: 100%;
+  padding: 0;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #222;
+  font-weight: bold;
+}
+
+.dest {
+  position: relative;
+}
+
+.require {
+  color: red;
+}
+
+.valided::after {
+  content: "✔";
+  color: green;
+}
+
+.invalided::after {
+  content: "✘";
+  color: red;
+}
+
+.loading::after {
+  content: "x";
+  color: transparent;
+  background: url("../assets/loading.gif") center;
+  background-size: 80%;
+  background-repeat: no-repeat;
+}
+
+.dest::after {
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.dest > ul {
+  position: absolute;
+  top: cacl(100% + 0.5rem);
+  left: -0.25rem;
+  width: calc(100% + 0.5rem);
+  min-height: 0;
+  padding: 0;
+  background-color: black;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  z-index: 100;
+  border: 0.1rem solid white;
+  border-width: 0;
+  border-radius: 2rem 0.5rem 0.5rem 2rem;
+  box-shadow: 0 0 1rem 0.1rem #999;
+}
+
+.dest > ul > button {
+  width: 100%;
+  height: 3rem;
+  font-size: 0.8rem;
+  background: transparent;
+  border: none;
+  outline: none;
+  text-align: left;
+  padding: 0 1rem;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+
+.dest > ul > button:active {
+  color: orangered;
+}
+
+.dest > input:focus + ul {
+  min-height: 3rem;
+  max-height: 15rem;
+  border-width: 0.1rem;
+}
+
+.ddv-container legend,
+.pkg-container legend {
+  background-color: rgb(0, 120, 175);
+  color: white;
+  border: 0.1rem solid white;
+  box-shadow: 0 0 1rem 0.01rem #aaa;
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  text-align: justify;
+}
+
+legend > span {
+  font-weight: lighter !important;
+  font-size: 1em !important;
+}
+
+/* Estilos del paquete */
+.pkg-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: space-between;
+}
+
+.pkg-data {
+  width: calc(33% - 0.5rem);
+  aspect-ratio: 1 / 0.5;
+  padding: 0 0.35rem;
+  border: 0.1rem solid black;
+  box-shadow: 0 0 1rem 0.1rem #aaa;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: teal;
+  font-weight: bold;
+}
+
+.pkg-data > input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #222;
+}
+
+/* Acción */
+.action {
+  width: calc(33% - 0.5rem);
+  aspect-ratio: 1 / 0.5;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+  border: 0.1rem solid white;
+  box-shadow: 0 0 1rem 0.01rem #aaa;
+}
+
+.pkg-container a {
+  width: calc(33% - 0.5rem);
+  aspect-ratio: 1 / 0.5;
+  background-color: orangered;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.5rem 0.1rem #aaa;
+  border: 0.1rem solid white;
+  color: white;
+}
+
+/* Resultado */
+.loading-result::before {
+  width: 50%;
+  aspect-ratio: 1 / 1;
+  content: 'x';
+  color: transparent;
+  background: url('../assets/loading-result.gif') center no-repeat;
+  background-size: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 1rem 0.01rem #aaa;
+}
+
+.loading-result::after {
+  width: 100%;
+  text-align: center;
+  content: "cargando";
+  font-size: 1.25rem;
+  color: orangered;
+}
+
+.result {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -100%;
+  background-color: white;
+  transition: left 0.2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+  gap: 2rem;
+}
+
+.r-list {
+  width: 100%;
+  height: 70%;
+  color: #222;
+  padding: 0.5rem 1rem;
+  overflow: scroll;
+  line-height: 0;
+}
+
+.r-list > div {
+  margin-top: 2rem;
+}
+
+.result span {
+  color: orangered;
+  font-size: 1rem;
+}
+
+.result p {
+  font-size: 0.8rem;
+}
+
+.close {
+  position: absolute;
+  top: 2.5%;
+  right: 5%;
+  font-size: 1.5rem;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  transition: transform 0.2s;
+  color: #222;
+}
+
+.close:active {
+  transform: rotate(720deg);
+}
+
+.result > .nq {
+  width: 45%;
+  background-color: rgb(5, 116, 180);
+  color: white;
+  border: 0.1rem solid white;
+  box-shadow: 0 0 1rem 0.01rem #aaa;
+  padding: 0.5rem;
+  border-radius: 2rem;
+  font-size: 1rem;
+}
+
+.pkg-list {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: -100vw;
+  transition: right 0.2s;
+  background-color: white;
+  padding: 15% 2.5%;
+  overflow: scroll;
+}
+
+.pkg-list table {
+  width: 100%;
+  font-size: 0.8rem;
+}
+
+.pkg-list thead tr {
+  background-color: orangered;
+  color: white;
+  text-align: center;
+}
+
+.pkg-list  td {
+  border: .05rem solid #333;
+  border-radius: .1rem;
+}
+
+.pkg-list tr {
+  height: 1.8rem;
+}
+
+.pkg-list tbody tr {
+  text-align: center;
+}
+
+.pkg-list tbody tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+.pkg-list tbody tr button::after {
+  content: '🗑️';
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+
+
+/* forms */
+
+#formats {
+  display: none;
+}

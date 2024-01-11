@@ -1,0 +1,10000 @@
+{
+ "references": {
+  "ID_STATE": [
+   "ID",
+   "./countries"
+  ]
+ },
+ "data": [
+  {
+   "ID_COUNTRY": 28,
+   "ID": 621,
+   "NAME": "A Coruña"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 722,
+   "NAME": "Aargau"
+  },
+  {
+   "ID_COUNTRY": 21,
+   "ID": 28,
+   "NAME": "Abkhazia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 574,
+   "NAME": "Abruzzo - Chieti"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 573,
+   "NAME": "Abruzzo - LAquila"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 575,
+   "NAME": "Abruzzo - Pescara"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 576,
+   "NAME": "Abruzzo - Teramo"
+  },
+  {
+   "ID_COUNTRY": 93,
+   "ID": 407,
+   "NAME": "Abu Dhabi"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1404,
+   "NAME": "Acquaviva"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1901,
+   "NAME": "Acre"
+  },
+  {
+   "ID_COUNTRY": 215,
+   "ID": 1581,
+   "NAME": "Adamstown"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 230,
+   "NAME": "Adana"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 381,
+   "NAME": "Adygeya"
+  },
+  {
+   "ID_COUNTRY": 144,
+   "ID": 661,
+   "NAME": "Afghanistan"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 236,
+   "NAME": "Afion"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1733,
+   "NAME": "Aguascalientes"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 206,
+   "NAME": "Ahuachapán"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 321,
+   "NAME": "Aichi"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 411,
+   "NAME": "Ain"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1663,
+   "NAME": "Aisén del General Carlos Ibánez del Campo"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 413,
+   "NAME": "Aisne"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1090,
+   "NAME": "Aitolia kai Akarnania"
+  },
+  {
+   "ID_COUNTRY": 21,
+   "ID": 29,
+   "NAME": "Ajaria"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 913,
+   "NAME": "Akershus"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1097,
+   "NAME": "Akhaia"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 322,
+   "NAME": "Akita"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 96,
+   "NAME": "Akmolinskaya obl. (Tselinogradskaya obl.)"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 81,
+   "NAME": "Aktyubinskaya obl."
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1930,
+   "NAME": "Akureyri"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 32,
+   "NAME": "Al QÃ„Â�hira"
+  },
+  {
+   "ID_COUNTRY": 37,
+   "ID": 109,
+   "NAME": "al-Jahra"
+  },
+  {
+   "ID_COUNTRY": 37,
+   "ID": 110,
+   "NAME": "al-Kuwait"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 772,
+   "NAME": "Alabama"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 641,
+   "NAME": "Alacant"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1902,
+   "NAME": "Alagoas"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1787,
+   "NAME": "Alajuela"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 771,
+   "NAME": "Alaska"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 620,
+   "NAME": "Álava"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1361,
+   "NAME": "Alba"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 643,
+   "NAME": "Albacete"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2055,
+   "NAME": "Alberta"
+  },
+  {
+   "ID_COUNTRY": 98,
+   "ID": 685,
+   "NAME": "Algeria"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 414,
+   "NAME": "Allier"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 82,
+   "NAME": "Alma-Atinskaya obl."
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 623,
+   "NAME": "Almería"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 415,
+   "NAME": "Alpes-de-Haute-Provence"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 417,
+   "NAME": "Alpes-Maritimes"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1676,
+   "NAME": "Alta Verapaz"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 133,
+   "NAME": "Altaiskii krai"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1637,
+   "NAME": "Alto Paraguay"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1622,
+   "NAME": "Alto Paraná"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1623,
+   "NAME": "Amambay"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1903,
+   "NAME": "Amapa"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 232,
+   "NAME": "Amasya"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1596,
+   "NAME": "Amazonas"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1843,
+   "NAME": "Amazonas"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1904,
+   "NAME": "Amazonas"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2202,
+   "NAME": "Amazonas"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 775,
+   "NAME": "American Samoa"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2112,
+   "NAME": "Amnat Charoen"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 134,
+   "NAME": "Amurskaya obl."
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1597,
+   "NAME": "Ancash"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 48,
+   "NAME": "Andhara Pradesh"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 266,
+   "NAME": "Andijon Region"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 989,
+   "NAME": "Andorra la Vella"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2113,
+   "NAME": "Ang Thong"
+  },
+  {
+   "ID_COUNTRY": 119,
+   "ID": 667,
+   "NAME": "Angola"
+  },
+  {
+   "ID_COUNTRY": 4,
+   "ID": 4,
+   "NAME": "Anguilla"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1966,
+   "NAME": "Anhui"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 233,
+   "NAME": "Ankara"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 234,
+   "NAME": "Antalya"
+  },
+  {
+   "ID_COUNTRY": 147,
+   "ID": 686,
+   "NAME": "Antigua and Barbuda"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2203,
+   "NAME": "Antioquia"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1664,
+   "NAME": "Antofagasta"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 879,
+   "NAME": "Antwerpen"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1844,
+   "NAME": "Anzoategui"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 2111,
+   "NAME": "Aomen"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 323,
+   "NAME": "Aomori"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 724,
+   "NAME": "Appenzell Ausserrhoden"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 723,
+   "NAME": "Appenzell Innerrhoden"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1845,
+   "NAME": "Apure"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1598,
+   "NAME": "Apurímac"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1167,
+   "NAME": "Aracinovo"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1362,
+   "NAME": "Arad"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 992,
+   "NAME": "Aragatsotn"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1846,
+   "NAME": "Aragua"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 993,
+   "NAME": "Ararat"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2204,
+   "NAME": "Arauca"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1665,
+   "NAME": "Araucanía"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 418,
+   "NAME": "Ardèche"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 419,
+   "NAME": "Ardennes"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1599,
+   "NAME": "Arequipa"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1363,
+   "NAME": "Arges"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1095,
+   "NAME": "Argolis"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 135,
+   "NAME": "Arhangelskaya obl."
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 940,
+   "NAME": "Arhus"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 420,
+   "NAME": "Ariège"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 776,
+   "NAME": "Arizona"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1100,
+   "NAME": "Arkadhia"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 774,
+   "NAME": "Arkansas"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 994,
+   "NAME": "Armavir"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 769,
+   "NAME": "Armed Forces Americas"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 770,
+   "NAME": "Armed Forces Europe"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 773,
+   "NAME": "Armed Forces Pacific"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1931,
+   "NAME": "Arnessysla"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1079,
+   "NAME": "Arta"
+  },
+  {
+   "ID_COUNTRY": 16,
+   "ID": 20,
+   "NAME": "Artibonite"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1642,
+   "NAME": "Artigas"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 235,
+   "NAME": "Artvin"
+  },
+  {
+   "ID_COUNTRY": 142,
+   "ID": 402,
+   "NAME": "Aruba"
+  },
+  {
+   "ID_COUNTRY": 57,
+   "ID": 221,
+   "NAME": "Ashgabat Region"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 49,
+   "NAME": "Assam"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 136,
+   "NAME": "Astrahanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 659,
+   "NAME": "Asturias"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 33,
+   "NAME": "Aswan"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 34,
+   "NAME": "Asyut"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1666,
+   "NAME": "Atacama"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2205,
+   "NAME": "Atlántico"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1094,
+   "NAME": "Attiki"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 421,
+   "NAME": "Aube"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 116,
+   "NAME": "Auckland"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 422,
+   "NAME": "Aude"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 914,
+   "NAME": "Aust-Agder"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2010,
+   "NAME": "Australian Capital Territory"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1932,
+   "NAME": "Austur-Bardastrandarsysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1933,
+   "NAME": "Austur-Hunavatnssysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1934,
+   "NAME": "Austur-Skaftafellssysla"
+  },
+  {
+   "ID_COUNTRY": 166,
+   "ID": 1569,
+   "NAME": "Avarua"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 749,
+   "NAME": "Aveiro"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 423,
+   "NAME": "Aveyron"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 628,
+   "NAME": "Ávila"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1600,
+   "NAME": "Ayacucho"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 231,
+   "NAME": "Aydin"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 67,
+   "NAME": "Azarbayjan-e Khavari"
+  },
+  {
+   "ID_COUNTRY": 3,
+   "ID": 1,
+   "NAME": "Azerbaijan"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 768,
+   "NAME": "Azores"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2077,
+   "NAME": "Azua"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1796,
+   "NAME": "Azuay"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1168,
+   "NAME": "Bac"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1364,
+   "NAME": "Bacau"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1112,
+   "NAME": "Bacs-Kiskun"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 649,
+   "NAME": "Badajoz"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 833,
+   "NAME": "Baden-Württemberg"
+  },
+  {
+   "ID_COUNTRY": 140,
+   "ID": 390,
+   "NAME": "Baghdad"
+  },
+  {
+   "ID_COUNTRY": 80,
+   "ID": 403,
+   "NAME": "Bahamas"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1905,
+   "NAME": "Bahia"
+  },
+  {
+   "ID_COUNTRY": 127,
+   "ID": 687,
+   "NAME": "Bahrain"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1734,
+   "NAME": "Baja California"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1735,
+   "NAME": "Baja California Sur"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1677,
+   "NAME": "Baja Verapaz"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 237,
+   "NAME": "Balikesir"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1152,
+   "NAME": "Balzers"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 44,
+   "NAME": "Bangala"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2114,
+   "NAME": "Bangkok"
+  },
+  {
+   "ID_COUNTRY": 149,
+   "ID": 688,
+   "NAME": "Bangladesh"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1413,
+   "NAME": "Banska Bystrica"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2095,
+   "NAME": "Baoruco"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2082,
+   "NAME": "Barahona"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1113,
+   "NAME": "Baranya"
+  },
+  {
+   "ID_COUNTRY": 128,
+   "ID": 689,
+   "NAME": "Barbados"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 648,
+   "NAME": "Barcelona"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1847,
+   "NAME": "Barinas"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 227,
+   "NAME": "Bartin"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 480,
+   "NAME": "Bas Rhin"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 726,
+   "NAME": "Basel-Landschaft"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 727,
+   "NAME": "Basel-Stadt"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 137,
+   "NAME": "Bashkiriya obl."
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 590,
+   "NAME": "Basilicata - Matera"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 589,
+   "NAME": "Basilicata - Potenza"
+  },
+  {
+   "ID_COUNTRY": 140,
+   "ID": 391,
+   "NAME": "Basra"
+  },
+  {
+   "ID_COUNTRY": 17,
+   "ID": 27,
+   "NAME": "Basse-Terre"
+  },
+  {
+   "ID_COUNTRY": 219,
+   "ID": 1584,
+   "NAME": "Basseterre"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 117,
+   "NAME": "Bay of Plenty"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 228,
+   "NAME": "Bayburt"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 834,
+   "NAME": "Bayern"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1986,
+   "NAME": "Beijing"
+  },
+  {
+   "ID_COUNTRY": 99,
+   "ID": 385,
+   "NAME": "Beirut"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 750,
+   "NAME": "Beja"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1114,
+   "NAME": "Bekes"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1169,
+   "NAME": "Belcista"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 138,
+   "NAME": "Belgorodskaya obl."
+  },
+  {
+   "ID_COUNTRY": 226,
+   "ID": 1589,
+   "NAME": "Belgrade"
+  },
+  {
+   "ID_COUNTRY": 8,
+   "ID": 11,
+   "NAME": "Belize"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1423,
+   "NAME": "Beltinci"
+  },
+  {
+   "ID_COUNTRY": 39,
+   "ID": 113,
+   "NAME": "Bengasi"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 35,
+   "NAME": "Beni Suef"
+  },
+  {
+   "ID_COUNTRY": 151,
+   "ID": 666,
+   "NAME": "Benin"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 971,
+   "NAME": "Berat"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 845,
+   "NAME": "Berlin"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 725,
+   "NAME": "Bern"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1170,
+   "NAME": "Berovo"
+  },
+  {
+   "ID_COUNTRY": 152,
+   "ID": 690,
+   "NAME": "Bhutan"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1295,
+   "NAME": "Biala Podlaska"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1296,
+   "NAME": "Bialystok"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1297,
+   "NAME": "Bielsko"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 50,
+   "NAME": "Bihar"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1365,
+   "NAME": "Bihor"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 238,
+   "NAME": "Bilecik"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1667,
+   "NAME": "Bío-Bío"
+  },
+  {
+   "ID_COUNTRY": 188,
+   "ID": 1575,
+   "NAME": "Bissau"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1171,
+   "NAME": "Bistrica"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1366,
+   "NAME": "Bistrita-Nasaud"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1172,
+   "NAME": "Bitola"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1037,
+   "NAME": "Bjelovarsko-Bilogorska"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1008,
+   "NAME": "Blagoevgrad"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1173,
+   "NAME": "Blatec"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 887,
+   "NAME": "Blekinge Lan"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1869,
+   "NAME": "Boaco"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1766,
+   "NAME": "Bocas del Toro"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1174,
+   "NAME": "Bogdanci"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1175,
+   "NAME": "Bogomila"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1176,
+   "NAME": "Bogovinje"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1425,
+   "NAME": "Bohinj"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2206,
+   "NAME": "Bolivar"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1797,
+   "NAME": "Bolívar"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1848,
+   "NAME": "Bolívar"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1624,
+   "NAME": "Boquerón"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1935,
+   "NAME": "Borgarfjardarsysla"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1409,
+   "NAME": "Borgo Maggiore"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 941,
+   "NAME": "Bornholm"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1426,
+   "NAME": "Borovnica"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1115,
+   "NAME": "Borsod-Abauj-Zemplen"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1177,
+   "NAME": "Bosilovo"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1367,
+   "NAME": "Botosani"
+  },
+  {
+   "ID_COUNTRY": 100,
+   "ID": 669,
+   "NAME": "Botswana"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 424,
+   "NAME": "Bouches-du-Rhône"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1427,
+   "NAME": "Bovec"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2207,
+   "NAME": "Boyacá"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 884,
+   "NAME": "Brabant Wallon"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 751,
+   "NAME": "Braga"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 752,
+   "NAME": "Braganca"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1368,
+   "NAME": "Braila"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 832,
+   "NAME": "Brandenburg"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1369,
+   "NAME": "Brasov"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1414,
+   "NAME": "Bratislava"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1428,
+   "NAME": "Brda"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 846,
+   "NAME": "Bremen"
+  },
+  {
+   "ID_COUNTRY": 7,
+   "ID": 5,
+   "NAME": "Brestskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1429,
+   "NAME": "Brezice"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1430,
+   "NAME": "Brezovica"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2056,
+   "NAME": "British Columbia"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1038,
+   "NAME": "Brodsko-Posavska"
+  },
+  {
+   "ID_COUNTRY": 155,
+   "ID": 691,
+   "NAME": "Brunei"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 874,
+   "NAME": "Bruxelles"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 139,
+   "NAME": "Bryanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1370,
+   "NAME": "Bucuresti"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1116,
+   "NAME": "Budapest"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1818,
+   "NAME": "Buenos Aires"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1009,
+   "NAME": "Burgas"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 865,
+   "NAME": "Burgenland"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 657,
+   "NAME": "Burgos"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2115,
+   "NAME": "Buri Ram"
+  },
+  {
+   "ID_COUNTRY": 156,
+   "ID": 664,
+   "NAME": "Burkina Faso"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 239,
+   "NAME": "Bursa"
+  },
+  {
+   "ID_COUNTRY": 157,
+   "ID": 692,
+   "NAME": "Burundi"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 140,
+   "NAME": "Buryatiya"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2188,
+   "NAME": "Busan"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 915,
+   "NAME": "Buskerud"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 267,
+   "NAME": "Buxoro Region"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1371,
+   "NAME": "Buzau"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1298,
+   "NAME": "Bydgoszcz"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1625,
+   "NAME": "Caaguazú"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1626,
+   "NAME": "Caazapá"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 626,
+   "NAME": "Cáceres"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 613,
+   "NAME": "Cádiz"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1179,
+   "NAME": "Cair"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1601,
+   "NAME": "Cajamarca"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 591,
+   "NAME": "Calabria - Catanzaro"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 592,
+   "NAME": "Calabria - Cosenza"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 593,
+   "NAME": "Calabria - Crotone"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 594,
+   "NAME": "Calabria - Reggio Calabria"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 595,
+   "NAME": "Calabria - Vibo Valentia"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1400,
+   "NAME": "Calarasi"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2208,
+   "NAME": "Caldas"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 777,
+   "NAME": "California"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1602,
+   "NAME": "Callao"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 425,
+   "NAME": "Calvados"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1890,
+   "NAME": "Camaguey"
+  },
+  {
+   "ID_COUNTRY": 158,
+   "ID": 673,
+   "NAME": "Cambodia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 580,
+   "NAME": "Campania - Avellino"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 581,
+   "NAME": "Campania - Benevento"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 582,
+   "NAME": "Campania - Caserta"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 579,
+   "NAME": "Campania - Napoli"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 583,
+   "NAME": "Campania - Salerno"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1736,
+   "NAME": "Campeche"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1798,
+   "NAME": "Canar"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1643,
+   "NAME": "Canelones"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 984,
+   "NAME": "Canillo"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1638,
+   "NAME": "Canindeyú"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 622,
+   "NAME": "Cantabria"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 426,
+   "NAME": "Cantal"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 118,
+   "NAME": "Canterbury"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1180,
+   "NAME": "Capari"
+  },
+  {
+   "ID_COUNTRY": 159,
+   "ID": 693,
+   "NAME": "Cape Verde"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2209,
+   "NAME": "Caquetá"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1849,
+   "NAME": "Carabobo"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1372,
+   "NAME": "Caras-Severin"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1870,
+   "NAME": "Carazo"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1799,
+   "NAME": "Carchi"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2025,
+   "NAME": "Carlow"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1788,
+   "NAME": "Cartago"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2210,
+   "NAME": "Casanare"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1181,
+   "NAME": "Caska"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 630,
+   "NAME": "Castellón"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 753,
+   "NAME": "Castelo Branco"
+  },
+  {
+   "ID_COUNTRY": 220,
+   "ID": 1585,
+   "NAME": "Castries"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1819,
+   "NAME": "Catamarca"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2211,
+   "NAME": "Cauca"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2041,
+   "NAME": "Cavan"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1906,
+   "NAME": "Ceara"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1182,
+   "NAME": "Cegrane"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1184,
+   "NAME": "Centar Zupa"
+  },
+  {
+   "ID_COUNTRY": 31,
+   "ID": 101,
+   "NAME": "Central"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1627,
+   "NAME": "Central"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 1997,
+   "NAME": "Central"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 39,
+   "NAME": "Central District"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1432,
+   "NAME": "Cerklje na Gorenjskem"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1434,
+   "NAME": "Cerkno"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1644,
+   "NAME": "Cerro Largo"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2212,
+   "NAME": "César"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 634,
+   "NAME": "Ceuta"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2116,
+   "NAME": "Chachoengsao"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1639,
+   "NAME": "Chaco"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1820,
+   "NAME": "Chaco"
+  },
+  {
+   "ID_COUNTRY": 130,
+   "ID": 694,
+   "NAME": "Chad"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2117,
+   "NAME": "Chai Nat"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2118,
+   "NAME": "Chaiyaphum"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 66,
+   "NAME": "Chandigarh"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 863,
+   "NAME": "Channel Islands"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2119,
+   "NAME": "Chanthaburi"
+  },
+  {
+   "ID_COUNTRY": 57,
+   "ID": 225,
+   "NAME": "Chardzhou Region"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 427,
+   "NAME": "Charente"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 428,
+   "NAME": "Charente Maritime"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 202,
+   "NAME": "Checheno-Ingushetiya"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 305,
+   "NAME": "Cheju"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1299,
+   "NAME": "Chelm"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 201,
+   "NAME": "Chelyabinskaya obl."
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 429,
+   "NAME": "Cher"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 301,
+   "NAME": "Cherkasskaya obl."
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 302,
+   "NAME": "Chernigovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 303,
+   "NAME": "Chernovitskaya obl."
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 45,
+   "NAME": "Chhattisgarh"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2120,
+   "NAME": "Chiang Mai"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2121,
+   "NAME": "Chiang Rai"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1737,
+   "NAME": "Chiapas"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 2103,
+   "NAME": "Chiba"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1405,
+   "NAME": "Chiesanuova"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1738,
+   "NAME": "Chihuahua"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1678,
+   "NAME": "Chimaltenango"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1800,
+   "NAME": "Chimborazo"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 97,
+   "NAME": "Chimkentskaya obl."
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1871,
+   "NAME": "Chinandega"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1679,
+   "NAME": "Chiquimula"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1767,
+   "NAME": "Chiriquí"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 203,
+   "NAME": "Chitinskaya obl."
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2213,
+   "NAME": "Chocó"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 306,
+   "NAME": "Chollabuk"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 307,
+   "NAME": "Chollanam"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2122,
+   "NAME": "Chon Buri"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1996,
+   "NAME": "Chongqing"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1872,
+   "NAME": "Chontales"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1821,
+   "NAME": "Chubut"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 384,
+   "NAME": "Chukotskii AO"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 308,
+   "NAME": "Chungcheongbuk"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 309,
+   "NAME": "Chungcheongnam"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1777,
+   "NAME": "Chuquisaca"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 204,
+   "NAME": "Chuvashiya"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1300,
+   "NAME": "Ciechanow"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1891,
+   "NAME": "Ciego de Avila"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1892,
+   "NAME": "Cienfuegos"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1887,
+   "NAME": "Ciudad de la Habana"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 618,
+   "NAME": "Ciudad Real"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2036,
+   "NAME": "Clare"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1373,
+   "NAME": "Cluj"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1739,
+   "NAME": "Coahuila de Zaragoza"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 1998,
+   "NAME": "Coast"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1778,
+   "NAME": "Cochabamba"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1768,
+   "NAME": "Coclé"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 754,
+   "NAME": "Coimbra"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1850,
+   "NAME": "Cojedes"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1740,
+   "NAME": "Colima"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1769,
+   "NAME": "Colón"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1645,
+   "NAME": "Colonia"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 778,
+   "NAME": "Colorado"
+  },
+  {
+   "ID_COUNTRY": 164,
+   "ID": 695,
+   "NAME": "Comoros"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1628,
+   "NAME": "Concepción"
+  },
+  {
+   "ID_COUNTRY": 165,
+   "ID": 1568,
+   "NAME": "Congo"
+  },
+  {
+   "ID_COUNTRY": 112,
+   "ID": 696,
+   "NAME": "Congo (Brazzaville)"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 779,
+   "NAME": "Connecticut"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1374,
+   "NAME": "Constanta"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1668,
+   "NAME": "Coquimbo"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1629,
+   "NAME": "Cordillera"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 642,
+   "NAME": "Córdoba"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1822,
+   "NAME": "Córdoba"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2214,
+   "NAME": "Córdoba"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2037,
+   "NAME": "Cork"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 430,
+   "NAME": "Corrèze"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1823,
+   "NAME": "Corrientes"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 432,
+   "NAME": "Corse"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 258,
+   "NAME": "Corum"
+  },
+  {
+   "ID_COUNTRY": 168,
+   "ID": 681,
+   "NAME": "Cote DIvoire"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 433,
+   "NAME": "Côte dOr"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 435,
+   "NAME": "Côtes dArmor"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1801,
+   "NAME": "Cotopaxi"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1375,
+   "NAME": "Covasna"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 436,
+   "NAME": "Creuse"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1436,
+   "NAME": "Crna na Koroskem"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1437,
+   "NAME": "Crnomelj"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1117,
+   "NAME": "Csongrad"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 644,
+   "NAME": "Cuenca"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2215,
+   "NAME": "Cundinamarca"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 207,
+   "NAME": "Cuscatlán"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1603,
+   "NAME": "Cusco"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1301,
+   "NAME": "Czestochowa"
+  },
+  {
+   "ID_COUNTRY": 63,
+   "ID": 933,
+   "NAME": "Ð•land"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2189,
+   "NAME": "Daegu"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 146,
+   "NAME": "Dagestan"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2094,
+   "NAME": "Dajabón"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 895,
+   "NAME": "Dalarnas Lan"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1936,
+   "NAME": "Dalasysla"
+  },
+  {
+   "ID_COUNTRY": 106,
+   "ID": 378,
+   "NAME": "Damascus"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1376,
+   "NAME": "Dambovita"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 37,
+   "NAME": "Damietta"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1770,
+   "NAME": "Darién"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1187,
+   "NAME": "Debar"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1118,
+   "NAME": "Debrecen"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 781,
+   "NAME": "Delaware"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1188,
+   "NAME": "Delcevo"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 2201,
+   "NAME": "Delhi"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1851,
+   "NAME": "Delta Amacuro"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1190,
+   "NAME": "Demir Hisar"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1191,
+   "NAME": "Demir Kapija"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 241,
+   "NAME": "Denizli"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1865,
+   "NAME": "Dependencias Federales"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 489,
+   "NAME": "Deux-Sèvres"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1106,
+   "NAME": "Dhodhekanisos"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 972,
+   "NAME": "Diber"
+  },
+  {
+   "ID_COUNTRY": 41,
+   "ID": 1163,
+   "NAME": "Diekirch"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 780,
+   "NAME": "District of Columbia"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1741,
+   "NAME": "Distrito Federal"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1824,
+   "NAME": "Distrito Federal"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1866,
+   "NAME": "Distrito Federal"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1907,
+   "NAME": "Distrito Federal"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1438,
+   "NAME": "Divaca"
+  },
+  {
+   "ID_COUNTRY": 169,
+   "ID": 697,
+   "NAME": "Djibouti"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 281,
+   "NAME": "Dnepropetrovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1439,
+   "NAME": "Dobrepolje"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1010,
+   "NAME": "Dobrich"
+  },
+  {
+   "ID_COUNTRY": 216,
+   "ID": 1582,
+   "NAME": "Doha"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1440,
+   "NAME": "Dol pri Ljubljani"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1377,
+   "NAME": "Dolj"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1344,
+   "NAME": "Dolnoslaskie"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1406,
+   "NAME": "Domagnano"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1539,
+   "NAME": "Domzale"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2042,
+   "NAME": "Donegal"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 282,
+   "NAME": "Donetskaya obl."
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 13,
+   "NAME": "Dong Bang Song Cuu Long"
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 14,
+   "NAME": "Dong Bang Song Hong"
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 15,
+   "NAME": "Dong Nam Bo"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1195,
+   "NAME": "Dorce Petrov"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 431,
+   "NAME": "Dordogne"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 437,
+   "NAME": "Doubs"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1063,
+   "NAME": "Drama"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2060,
+   "NAME": "Drenthe"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 438,
+   "NAME": "Drôme"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2073,
+   "NAME": "Duarte"
+  },
+  {
+   "ID_COUNTRY": 93,
+   "ID": 383,
+   "NAME": "Dubai"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2018,
+   "NAME": "Dublin"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1039,
+   "NAME": "Dubrovacko-Neretvanska"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1443,
+   "NAME": "Duplek"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1742,
+   "NAME": "Durango"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1646,
+   "NAME": "Durazno"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 973,
+   "NAME": "Durres"
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 16,
+   "NAME": "Duyen Hai Mien Trung"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 86,
+   "NAME": "Dzhezkazganskaya obl."
+  },
+  {
+   "ID_COUNTRY": 171,
+   "ID": 698,
+   "NAME": "East Timor"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 1999,
+   "NAME": "Eastern"
+  },
+  {
+   "ID_COUNTRY": 63,
+   "ID": 937,
+   "NAME": "Eastern Finland"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 259,
+   "NAME": "Edirne"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 377,
+   "NAME": "Egypt"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 2104,
+   "NAME": "Ehime"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1779,
+   "NAME": "El Beni"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1802,
+   "NAME": "El Oro"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1680,
+   "NAME": "El Progreso"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2096,
+   "NAME": "El Seibo"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 260,
+   "NAME": "Elazig"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 974,
+   "NAME": "Elbasan"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1302,
+   "NAME": "Elblag"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2081,
+   "NAME": "Elías Piña"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 543,
+   "NAME": "Emilia Romagna - Bologna"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 544,
+   "NAME": "Emilia Romagna - Ferrara"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 545,
+   "NAME": "Emilia Romagna - Forlì-Cesena"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 546,
+   "NAME": "Emilia Romagna - Modena"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 547,
+   "NAME": "Emilia Romagna - Parma"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 548,
+   "NAME": "Emilia Romagna - Piacenza"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 549,
+   "NAME": "Emilia Romagna - Ravenna"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 550,
+   "NAME": "Emilia Romagna - Reggio Emilia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 551,
+   "NAME": "Emilia Romagna - Rimini"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 985,
+   "NAME": "Encamp"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 849,
+   "NAME": "England - East"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 860,
+   "NAME": "England - East Midlands"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 855,
+   "NAME": "England - London"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 857,
+   "NAME": "England - North East"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 852,
+   "NAME": "England - North West"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 854,
+   "NAME": "England - South East"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 851,
+   "NAME": "England - South West"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 850,
+   "NAME": "England - West Midlands"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 853,
+   "NAME": "England - Yorks Y Humber"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1825,
+   "NAME": "Entre Ríos"
+  },
+  {
+   "ID_COUNTRY": 173,
+   "ID": 699,
+   "NAME": "Eritrea"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 261,
+   "NAME": "Erzincan"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 262,
+   "NAME": "Erzurum"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 990,
+   "NAME": "Escaldes-Engordany"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1153,
+   "NAME": "Eschen"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1681,
+   "NAME": "Escuintla"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 68,
+   "NAME": "Esfahan"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 263,
+   "NAME": "Eskisehir"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1803,
+   "NAME": "Esmeraldas"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2089,
+   "NAME": "Espaillat"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1908,
+   "NAME": "Espirito Santo"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 501,
+   "NAME": "Essonne"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1873,
+   "NAME": "Estelí"
+  },
+  {
+   "ID_COUNTRY": 68,
+   "ID": 304,
+   "NAME": "Estoniya"
+  },
+  {
+   "ID_COUNTRY": 121,
+   "ID": 700,
+   "NAME": "Ethiopia"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 439,
+   "NAME": "Eure"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 440,
+   "NAME": "Eure-et-Loire"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 755,
+   "NAME": "Evora"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 147,
+   "NAME": "Evreiskaya obl."
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1089,
+   "NAME": "Evritania"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1060,
+   "NAME": "Evros"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1093,
+   "NAME": "Evvoia"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1937,
+   "NAME": "Eyjafjardarsysla"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1407,
+   "NAME": "Faetano"
+  },
+  {
+   "ID_COUNTRY": 235,
+   "ID": 1592,
+   "NAME": "Fakaofo"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1852,
+   "NAME": "Falcón"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 756,
+   "NAME": "Faro"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 78,
+   "NAME": "Fars"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 783,
+   "NAME": "Federated States of Micronesia"
+  },
+  {
+   "ID_COUNTRY": 79,
+   "ID": 1004,
+   "NAME": "Federation of Bosnia and Herzegovina"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1119,
+   "NAME": "Fejer"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 277,
+   "NAME": "Fergana Region"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 975,
+   "NAME": "Fier"
+  },
+  {
+   "ID_COUNTRY": 176,
+   "ID": 678,
+   "NAME": "Fiji"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 441,
+   "NAME": "Finistère"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 916,
+   "NAME": "Finnmark"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1408,
+   "NAME": "Fiorentino"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2072,
+   "NAME": "Flevoland"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1647,
+   "NAME": "Flores"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 782,
+   "NAME": "Florida"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1648,
+   "NAME": "Florida"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1067,
+   "NAME": "Florina"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1091,
+   "NAME": "Fokis"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1826,
+   "NAME": "Formosa"
+  },
+  {
+   "ID_COUNTRY": 201,
+   "ID": 1577,
+   "NAME": "Fort-de-France"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 942,
+   "NAME": "Frederiksborg"
+  },
+  {
+   "ID_COUNTRY": 227,
+   "ID": 1590,
+   "NAME": "Freetown"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 728,
+   "NAME": "Fribourg"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2061,
+   "NAME": "Friesland"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 536,
+   "NAME": "Friuli Venezia Giulia - Gorizia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 537,
+   "NAME": "Friuli Venezia Giulia - Pordenone"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 535,
+   "NAME": "Friuli Venezia Giulia - Trieste"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 538,
+   "NAME": "Friuli Venezia Giulia - Udine"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1088,
+   "NAME": "Fthiotis"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1972,
+   "NAME": "Fujian"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 357,
+   "NAME": "Fukui"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 358,
+   "NAME": "Fukuoka"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 359,
+   "NAME": "Fukushima"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 943,
+   "NAME": "Fyn"
+  },
+  {
+   "ID_COUNTRY": 180,
+   "ID": 701,
+   "NAME": "Gabon"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1011,
+   "NAME": "Gabrovo"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1795,
+   "NAME": "Galápagos"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1378,
+   "NAME": "Galati"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2019,
+   "NAME": "Galway"
+  },
+  {
+   "ID_COUNTRY": 181,
+   "ID": 702,
+   "NAME": "Gambia"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1154,
+   "NAME": "Gamprin"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2191,
+   "NAME": "Gangwon"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1980,
+   "NAME": "Gansu"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 442,
+   "NAME": "Gard"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 888,
+   "NAME": "Gavleborgs Lan"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1198,
+   "NAME": "Gazi Baba"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 240,
+   "NAME": "Gaziantep"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1303,
+   "NAME": "Gdansk"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 995,
+   "NAME": "Gegharkunik"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2062,
+   "NAME": "Gelderland"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 729,
+   "NAME": "Genève"
+  },
+  {
+   "ID_COUNTRY": 21,
+   "ID": 30,
+   "NAME": "Georgia"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 784,
+   "NAME": "Georgia"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 444,
+   "NAME": "Gers"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1199,
+   "NAME": "Gevgelija"
+  },
+  {
+   "ID_COUNTRY": 105,
+   "ID": 703,
+   "NAME": "Ghana"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 36,
+   "NAME": "Gharbia"
+  },
+  {
+   "ID_COUNTRY": 143,
+   "ID": 1059,
+   "NAME": "Gibraltar"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 325,
+   "NAME": "Gifu"
+  },
+  {
+   "ID_COUNTRY": 195,
+   "ID": 2006,
+   "NAME": "Gilbert Islands"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 639,
+   "NAME": "Girona"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 445,
+   "NAME": "Gironde"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 119,
+   "NAME": "Gisborne"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1401,
+   "NAME": "Giurgiu"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 976,
+   "NAME": "Gjirokaster"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 730,
+   "NAME": "Glarus"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1925,
+   "NAME": "Goias"
+  },
+  {
+   "ID_COUNTRY": 7,
+   "ID": 7,
+   "NAME": "Gomelskaya obl."
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1379,
+   "NAME": "Gorj"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1447,
+   "NAME": "Gornji Grad"
+  },
+  {
+   "ID_COUNTRY": 56,
+   "ID": 216,
+   "NAME": "Gorno-Badakhshan Region"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1304,
+   "NAME": "Gorzow"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1200,
+   "NAME": "Gostivar"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 890,
+   "NAME": "Gotlands Lan"
+  },
+  {
+   "ID_COUNTRY": 33,
+   "ID": 102,
+   "NAME": "Government controlled area"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1012,
+   "NAME": "Grad Sofiya"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1057,
+   "NAME": "Grad Zagreb"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1201,
+   "NAME": "Gradsko"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 640,
+   "NAME": "Granada"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1874,
+   "NAME": "Granada"
+  },
+  {
+   "ID_COUNTRY": 58,
+   "ID": 226,
+   "NAME": "Grand Turk"
+  },
+  {
+   "ID_COUNTRY": 16,
+   "ID": 21,
+   "NAME": "GrandAnse"
+  },
+  {
+   "ID_COUNTRY": 17,
+   "ID": 26,
+   "NAME": "Grande-Terre"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1893,
+   "NAME": "Granma"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 731,
+   "NAME": "Graubünden"
+  },
+  {
+   "ID_COUNTRY": 94,
+   "ID": 831,
+   "NAME": "Greenland"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1069,
+   "NAME": "Grevena"
+  },
+  {
+   "ID_COUNTRY": 41,
+   "ID": 1164,
+   "NAME": "Grevenmacher"
+  },
+  {
+   "ID_COUNTRY": 7,
+   "ID": 8,
+   "NAME": "Grodnenskaya obl."
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2063,
+   "NAME": "Groningen"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 627,
+   "NAME": "Guadalajara"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2216,
+   "NAME": "Guainía"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1630,
+   "NAME": "Guairá"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1789,
+   "NAME": "Guanacaste"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1743,
+   "NAME": "Guanajuato"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1994,
+   "NAME": "Guangdong"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1981,
+   "NAME": "Guangxi"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1894,
+   "NAME": "Guantanamo"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 758,
+   "NAME": "Guarda"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1853,
+   "NAME": "Guárico"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1682,
+   "NAME": "Guatemala"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2217,
+   "NAME": "Guaviare"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1804,
+   "NAME": "Guayas"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1744,
+   "NAME": "Guerrero"
+  },
+  {
+   "ID_COUNTRY": 187,
+   "ID": 683,
+   "NAME": "Guinea"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 617,
+   "NAME": "Guipúzcoa"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1982,
+   "NAME": "Guizhou"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 51,
+   "NAME": "Gujarat"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1938,
+   "NAME": "Gullbringusysla"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 326,
+   "NAME": "Gunma"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 84,
+   "NAME": "Gurevskaya obl."
+  },
+  {
+   "ID_COUNTRY": 189,
+   "ID": 684,
+   "NAME": "Guyana"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2192,
+   "NAME": "Gwangju"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2193,
+   "NAME": "Gyeonggi"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2194,
+   "NAME": "Gyeongsangbuk"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2195,
+   "NAME": "Gyeongsangnam"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1136,
+   "NAME": "Gyor"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1120,
+   "NAME": "Gyor-Moson-Sopron"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 200,
+   "NAME": "Habarovskii krai"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1939,
+   "NAME": "Hafnarfjordur"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 41,
+   "NAME": "Haifa"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1995,
+   "NAME": "Hainan"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 882,
+   "NAME": "Hainaut"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1121,
+   "NAME": "Hajdu-Bihar"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 382,
+   "NAME": "Hakasiya"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 891,
+   "NAME": "Hallands Lan"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 69,
+   "NAME": "Hamadan"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 836,
+   "NAME": "Hamburg"
+  },
+  {
+   "ID_COUNTRY": 10,
+   "ID": 12,
+   "NAME": "Hamilton"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1380,
+   "NAME": "Harghita"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 298,
+   "NAME": "Harkovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 65,
+   "NAME": "Haryana"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2097,
+   "NAME": "Hato Mayor"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 481,
+   "NAME": "Haut Rhin"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 443,
+   "NAME": "Haute-Garonne"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 456,
+   "NAME": "Haute-Loire"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 465,
+   "NAME": "Haute-Marne"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 482,
+   "NAME": "Haute-Saône"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 412,
+   "NAME": "Haute-Savoie"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 497,
+   "NAME": "Haute-Vienne"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 416,
+   "NAME": "Hautes-Alpes"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 478,
+   "NAME": "Hautes-Pyrénées"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 502,
+   "NAME": "Hauts-de-Seine"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 786,
+   "NAME": "Hawaii"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 120,
+   "NAME": "Hawkes Bay"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1975,
+   "NAME": "Hebei"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 917,
+   "NAME": "Hedmark"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1973,
+   "NAME": "Heilongjiang"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1974,
+   "NAME": "Henan"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 446,
+   "NAME": "Hérault"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1790,
+   "NAME": "Heredia"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1771,
+   "NAME": "Herrera"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 299,
+   "NAME": "Hersonskaya obl."
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 835,
+   "NAME": "Hessen"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1122,
+   "NAME": "Heves"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1745,
+   "NAME": "Hidalgo"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 360,
+   "NAME": "Hiroshima"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 956,
+   "NAME": "Hlavni Mesto Praha"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 300,
+   "NAME": "Hmelnitskaya obl."
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 361,
+   "NAME": "Hokkaido"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1896,
+   "NAME": "Holguin"
+  },
+  {
+   "ID_COUNTRY": 73,
+   "ID": 368,
+   "NAME": "Hong Kong"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 2109,
+   "NAME": "Hongkong"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 79,
+   "NAME": "Horasan"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 918,
+   "NAME": "Hordaland"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1450,
+   "NAME": "Hrastnik"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1451,
+   "NAME": "Hrpelje-Kozina"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1604,
+   "NAME": "Huancavelica"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1605,
+   "NAME": "Huánuco"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1977,
+   "NAME": "Hubei"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1683,
+   "NAME": "Huehuetenango"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 653,
+   "NAME": "Huelva"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 658,
+   "NAME": "Huesca"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2218,
+   "NAME": "Huila"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1976,
+   "NAME": "Hunan"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1381,
+   "NAME": "Hunedoara"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 80,
+   "NAME": "Husistan"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 362,
+   "NAME": "Hyogo"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1382,
+   "NAME": "Ialomita"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1383,
+   "NAME": "Iasi"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 327,
+   "NAME": "Ibaraki"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1606,
+   "NAME": "Ica"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 244,
+   "NAME": "Icel"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 788,
+   "NAME": "Idaho"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1452,
+   "NAME": "Idrija"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1453,
+   "NAME": "Ig"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1098,
+   "NAME": "Ilia"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1454,
+   "NAME": "Ilirska Bistrica"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 447,
+   "NAME": "Ille et Vilaine"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 656,
+   "NAME": "Illes Balears"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 789,
+   "NAME": "Illinois"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1071,
+   "NAME": "Imathia"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1805,
+   "NAME": "Imbabura"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 310,
+   "NAME": "Incheon"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2093,
+   "NAME": "Independencia"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 376,
+   "NAME": "India"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 790,
+   "NAME": "Indiana"
+  },
+  {
+   "ID_COUNTRY": 74,
+   "ID": 369,
+   "NAME": "Indonesia"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 448,
+   "NAME": "Indre"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 449,
+   "NAME": "Indre-et-Loire"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1076,
+   "NAME": "Ioannina"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 787,
+   "NAME": "Iowa"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1104,
+   "NAME": "Iraklion"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 149,
+   "NAME": "Irkutskaya obl."
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 450,
+   "NAME": "Isère"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 329,
+   "NAME": "Ishikawa"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1889,
+   "NAME": "Isla de la Juventud"
+  },
+  {
+   "ID_COUNTRY": 131,
+   "ID": 379,
+   "NAME": "Isle of Man"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 864,
+   "NAME": "Isle of Man"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 243,
+   "NAME": "Isparta"
+  },
+  {
+   "ID_COUNTRY": 34,
+   "ID": 104,
+   "NAME": "Issik Kulskaya Region"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 256,
+   "NAME": "Istanbul"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1040,
+   "NAME": "Istarska"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1631,
+   "NAME": "Itapúa"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1455,
+   "NAME": "Ivancna Gorica"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 286,
+   "NAME": "Ivano-Frankovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 148,
+   "NAME": "Ivanovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 328,
+   "NAME": "Iwate"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1684,
+   "NAME": "Izabal"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 242,
+   "NAME": "Izmir"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 638,
+   "NAME": "Jaén"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1685,
+   "NAME": "Jalapa"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1746,
+   "NAME": "Jalisco"
+  },
+  {
+   "ID_COUNTRY": 132,
+   "ID": 405,
+   "NAME": "Jamaica"
+  },
+  {
+   "ID_COUNTRY": 218,
+   "ID": 1583,
+   "NAME": "Jamestown"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 52,
+   "NAME": "Jammu and Kashmir"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 892,
+   "NAME": "Jamtlands Lan"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1131,
+   "NAME": "Jasz-Nagykun-Szolnok"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1204,
+   "NAME": "Jegunovce"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 2196,
+   "NAME": "Jeju"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1305,
+   "NAME": "Jelenia Gora"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 43,
+   "NAME": "Jerusalem"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1540,
+   "NAME": "Jesenice"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1969,
+   "NAME": "Jiangsu"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1968,
+   "NAME": "Jiangxi"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 958,
+   "NAME": "Jihocesky Kraj"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 957,
+   "NAME": "Jihomoravsky Kraj"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1970,
+   "NAME": "Jilin"
+  },
+  {
+   "ID_COUNTRY": 60,
+   "ID": 264,
+   "NAME": "Jinja"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1875,
+   "NAME": "Jinotega"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 268,
+   "NAME": "Jizzac Region"
+  },
+  {
+   "ID_COUNTRY": 141,
+   "ID": 393,
+   "NAME": "Johannesburg"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 893,
+   "NAME": "Jonkopings Lan"
+  },
+  {
+   "ID_COUNTRY": 75,
+   "ID": 370,
+   "NAME": "Jordan"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1827,
+   "NAME": "Jujuy"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1607,
+   "NAME": "Junín"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 451,
+   "NAME": "Jura"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 732,
+   "NAME": "Jura"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1686,
+   "NAME": "Jutiapa"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 150,
+   "NAME": "Kabardino-Balkariya"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 330,
+   "NAME": "Kagawa"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 331,
+   "NAME": "Kagoshima"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2124,
+   "NAME": "Kalasin"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 151,
+   "NAME": "Kaliningradskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1306,
+   "NAME": "Kalisz"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 894,
+   "NAME": "Kalmar Lan"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 153,
+   "NAME": "Kalmykiya"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 154,
+   "NAME": "Kaluzhskaya obl."
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 155,
+   "NAME": "Kamchatskaya obl."
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1205,
+   "NAME": "Kamenjane"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1541,
+   "NAME": "Kamnik"
+  },
+  {
+   "ID_COUNTRY": 60,
+   "ID": 265,
+   "NAME": "Kampala"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 332,
+   "NAME": "Kanagawa"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2126,
+   "NAME": "Kanchanaburi"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 311,
+   "NAME": "Kangweon"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 791,
+   "NAME": "Kansas"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 229,
+   "NAME": "Karabuk"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 2044,
+   "NAME": "Karachaeva-Cherkesskaya Respublica"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 87,
+   "NAME": "Karagandinskaya obl."
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1082,
+   "NAME": "Kardhitsa"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 156,
+   "NAME": "Kareliya"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1041,
+   "NAME": "Karlovacka"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 960,
+   "NAME": "Karlovarsky Kraj"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 46,
+   "NAME": "Karnataka"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 866,
+   "NAME": "Kärnten"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1207,
+   "NAME": "Karpos"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 246,
+   "NAME": "Kars"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1068,
+   "NAME": "Kastoria"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1307,
+   "NAME": "Katowice"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1208,
+   "NAME": "Kavadarci"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1073,
+   "NAME": "Kavala"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 245,
+   "NAME": "Kayseri"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 374,
+   "NAME": "Kazahstan"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1086,
+   "NAME": "Kefallinia"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 157,
+   "NAME": "Kemerovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 792,
+   "NAME": "Kentucky"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 53,
+   "NAME": "Kerala"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1084,
+   "NAME": "Kerkira"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 74,
+   "NAME": "Kerman"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 75,
+   "NAME": "Kermanshakhan"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2038,
+   "NAME": "Kerry"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1074,
+   "NAME": "Khalkidhiki"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1102,
+   "NAME": "Khania"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1013,
+   "NAME": "Khaskovo"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1109,
+   "NAME": "Khios"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2127,
+   "NAME": "Khon Kaen"
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 17,
+   "NAME": "Khu Bon Cu"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1209,
+   "NAME": "Kicevo"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1308,
+   "NAME": "Kielce"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 287,
+   "NAME": "Kievskaya obl."
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1108,
+   "NAME": "Kikladhes"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2020,
+   "NAME": "Kildare"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2026,
+   "NAME": "Kilkenny"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1065,
+   "NAME": "Kilkis"
+  },
+  {
+   "ID_COUNTRY": 212,
+   "ID": 1580,
+   "NAME": "Kingston"
+  },
+  {
+   "ID_COUNTRY": 222,
+   "ID": 1587,
+   "NAME": "Kingstown"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 249,
+   "NAME": "Kirklareli"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 288,
+   "NAME": "Kirovogradskaya obl."
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 158,
+   "NAME": "Kirovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1210,
+   "NAME": "Kisela Voda"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1943,
+   "NAME": "Kjosarsysla"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1211,
+   "NAME": "Klecevce"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 944,
+   "NAME": "Kobenhavn"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1212,
+   "NAME": "Kocani"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1542,
+   "NAME": "Kocevje"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 334,
+   "NAME": "Kochi"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 247,
+   "NAME": "Kodjaeli"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 89,
+   "NAME": "Kokchetavskaya obl."
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1123,
+   "NAME": "Komarom-Esztergom"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1462,
+   "NAME": "Komen"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 159,
+   "NAME": "Komi"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1214,
+   "NAME": "Kondovo"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1309,
+   "NAME": "Konin"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 248,
+   "NAME": "Konya"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1944,
+   "NAME": "Kopavogur"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1463,
+   "NAME": "Koper-Capodistria"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1042,
+   "NAME": "Koprivnicko-Krizevacka"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 977,
+   "NAME": "Korce"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 70,
+   "NAME": "Kordestan"
+  },
+  {
+   "ID_COUNTRY": 84,
+   "ID": 400,
+   "NAME": "Korea"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1096,
+   "NAME": "Korinthia"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1415,
+   "NAME": "Kosice"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 160,
+   "NAME": "Kostromskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1310,
+   "NAME": "Koszalin"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 996,
+   "NAME": "Kotayk"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1070,
+   "NAME": "Kozani"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1464,
+   "NAME": "Kozje"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2128,
+   "NAME": "Krabi"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1311,
+   "NAME": "Krakow"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 961,
+   "NAME": "Kralovehradecky Kraj"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1465,
+   "NAME": "Kranj"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1466,
+   "NAME": "Kranjska Gora"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1043,
+   "NAME": "Krapinsko-Zagorska"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 161,
+   "NAME": "Krasnodarskii krai"
+  },
+  {
+   "ID_COUNTRY": 57,
+   "ID": 222,
+   "NAME": "Krasnovodsk Region"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 162,
+   "NAME": "Krasnoyarskii krai"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1217,
+   "NAME": "Kratovo"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1219,
+   "NAME": "Krivogastani"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 897,
+   "NAME": "Kronobergs Lan"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1312,
+   "NAME": "Krosno"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1467,
+   "NAME": "Krsko"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1220,
+   "NAME": "Krusevo"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 289,
+   "NAME": "Krymskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1345,
+   "NAME": "Kujawsko-Pomorskie"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 978,
+   "NAME": "Kukes"
+  },
+  {
+   "ID_COUNTRY": 56,
+   "ID": 217,
+   "NAME": "Kuljabsk Region"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 335,
+   "NAME": "Kumamoto"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1223,
+   "NAME": "Kumanovo"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1014,
+   "NAME": "Kurdzhali"
+  },
+  {
+   "ID_COUNTRY": 56,
+   "ID": 218,
+   "NAME": "Kurgan-Tjube Region"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 163,
+   "NAME": "Kurganskaya obl."
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 164,
+   "NAME": "Kurskaya obl."
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 90,
+   "NAME": "Kustanaiskaya obl."
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 250,
+   "NAME": "Kutahya"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 312,
+   "NAME": "Kwangju"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 313,
+   "NAME": "Kyeonggi"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 314,
+   "NAME": "Kyeongsangbuk"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 315,
+   "NAME": "Kyeongsangnam"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 333,
+   "NAME": "Kyoto"
+  },
+  {
+   "ID_COUNTRY": 34,
+   "ID": 105,
+   "NAME": "Kyrgyzstan"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1015,
+   "NAME": "Kyustendil"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 88,
+   "NAME": "Kzyl-Ordinskaya obl."
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2085,
+   "NAME": "La Altagracia"
+  },
+  {
+   "ID_COUNTRY": 44,
+   "ID": 1292,
+   "NAME": "La Condamine"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2219,
+   "NAME": "La Guajira"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1895,
+   "NAME": "La Habana"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 208,
+   "NAME": "La Libertad"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1608,
+   "NAME": "La Libertad"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 986,
+   "NAME": "La Massana"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1828,
+   "NAME": "La Pampa"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 209,
+   "NAME": "La Paz"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1780,
+   "NAME": "La Paz"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 633,
+   "NAME": "La Rioja"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1829,
+   "NAME": "La Rioja"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2098,
+   "NAME": "La Romana"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 210,
+   "NAME": "La Unión"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2091,
+   "NAME": "La Vega"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1224,
+   "NAME": "Labunista"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1101,
+   "NAME": "Lakonia"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1609,
+   "NAME": "Lambayeque"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2129,
+   "NAME": "Lampang"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 452,
+   "NAME": "Landes"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2027,
+   "NAME": "Laois"
+  },
+  {
+   "ID_COUNTRY": 196,
+   "ID": 672,
+   "NAME": "Laos"
+  },
+  {
+   "ID_COUNTRY": 63,
+   "ID": 934,
+   "NAME": "Lapland"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1854,
+   "NAME": "Lara"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1080,
+   "NAME": "Larisa"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 609,
+   "NAME": "Las Palmas"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1897,
+   "NAME": "Las Tunas"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1105,
+   "NAME": "Lasithi"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1469,
+   "NAME": "Lasko"
+  },
+  {
+   "ID_COUNTRY": 38,
+   "ID": 111,
+   "NAME": "Latviya"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1649,
+   "NAME": "Lavalleja"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 569,
+   "NAME": "Lazio - Frosinone"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 570,
+   "NAME": "Lazio - Latina"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 571,
+   "NAME": "Lazio - Rieti"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 568,
+   "NAME": "Lazio - Roma"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 572,
+   "NAME": "Lazio - Viterbo"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1313,
+   "NAME": "Legnica"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 759,
+   "NAME": "Leiria"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2021,
+   "NAME": "Leitrim"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1544,
+   "NAME": "Lenart"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 655,
+   "NAME": "León"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1876,
+   "NAME": "León"
+  },
+  {
+   "ID_COUNTRY": 197,
+   "ID": 704,
+   "NAME": "Lesotho"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1110,
+   "NAME": "Lesvos"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1314,
+   "NAME": "Leszno"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1085,
+   "NAME": "Levkas"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 979,
+   "NAME": "Lezhe"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 880,
+   "NAME": "LiÃ„Â�ge"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1983,
+   "NAME": "Liaoning"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 962,
+   "NAME": "Liberecky Kraj"
+  },
+  {
+   "ID_COUNTRY": 198,
+   "ID": 682,
+   "NAME": "Liberia"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1669,
+   "NAME": "Libertador General Bernardo OHiggins"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1044,
+   "NAME": "Licko-Senjska"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 539,
+   "NAME": "Liguria - Genova"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 540,
+   "NAME": "Liguria - Imperia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 541,
+   "NAME": "Liguria - La Spezia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 542,
+   "NAME": "Liguria - Savona"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1610,
+   "NAME": "Lima"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 877,
+   "NAME": "Limburg"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2064,
+   "NAME": "Limburg"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2022,
+   "NAME": "Limerick"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1791,
+   "NAME": "Limón"
+  },
+  {
+   "ID_COUNTRY": 195,
+   "ID": 2007,
+   "NAME": "Line Islands"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 165,
+   "NAME": "Lipetskaya obl."
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1225,
+   "NAME": "Lipkovo"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 760,
+   "NAME": "Lisboa"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1545,
+   "NAME": "Litija"
+  },
+  {
+   "ID_COUNTRY": 31,
+   "ID": 98,
+   "NAME": "Littoral"
+  },
+  {
+   "ID_COUNTRY": 40,
+   "ID": 114,
+   "NAME": "Litva"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1470,
+   "NAME": "Ljubljana"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1471,
+   "NAME": "Ljubno"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1546,
+   "NAME": "Ljutomer"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 654,
+   "NAME": "Lleida"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1315,
+   "NAME": "Lodz"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1346,
+   "NAME": "Lodzkie"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2131,
+   "NAME": "Loei"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1472,
+   "NAME": "Logatec"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 453,
+   "NAME": "Loir-et-Cher"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 454,
+   "NAME": "Loire"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 457,
+   "NAME": "Loire Atlantique"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 458,
+   "NAME": "Loiret"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1806,
+   "NAME": "Loja"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 516,
+   "NAME": "Lombardia - Bergamo"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 517,
+   "NAME": "Lombardia - Brescia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 518,
+   "NAME": "Lombardia - Como"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 519,
+   "NAME": "Lombardia - Cremona"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 520,
+   "NAME": "Lombardia - Lecco"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 521,
+   "NAME": "Lombardia - Lodi"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 522,
+   "NAME": "Lombardia - Mantova"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 515,
+   "NAME": "Lombardia - Milano"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 523,
+   "NAME": "Lombardia - Pavia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 524,
+   "NAME": "Lombardia - Sondrio"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 525,
+   "NAME": "Lombardia - Varese"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1316,
+   "NAME": "Lomza"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2028,
+   "NAME": "Longford"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2132,
+   "NAME": "Lop Buri"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1611,
+   "NAME": "Loreto"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 997,
+   "NAME": "Lorri"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1670,
+   "NAME": "Los Lagos"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1807,
+   "NAME": "Los Ríos"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1772,
+   "NAME": "Los Santos"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 459,
+   "NAME": "Lot"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 460,
+   "NAME": "Lot-et-Garonne"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 793,
+   "NAME": "Louisiana"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2029,
+   "NAME": "Louth"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1016,
+   "NAME": "Lovech"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 461,
+   "NAME": "Lozère"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1347,
+   "NAME": "Lubelskie"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1317,
+   "NAME": "Lublin"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1348,
+   "NAME": "Lubuskie"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 290,
+   "NAME": "Luganskaya obl."
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 632,
+   "NAME": "Lugo"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 883,
+   "NAME": "Luxembourg"
+  },
+  {
+   "ID_COUNTRY": 41,
+   "ID": 1165,
+   "NAME": "Luxembourg"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 733,
+   "NAME": "Luzern"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 291,
+   "NAME": "Lvovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 134,
+   "ID": 670,
+   "NAME": "Madagascar"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 757,
+   "NAME": "Madeira"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 54,
+   "NAME": "Madhya Pradesh"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1612,
+   "NAME": "Madre de Dios"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 650,
+   "NAME": "Madrid"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1877,
+   "NAME": "Madriz"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2133,
+   "NAME": "Mae Hong Son"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 166,
+   "NAME": "Magadanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1671,
+   "NAME": "Magallanes y de la Antártica Chilena"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2220,
+   "NAME": "Magdalena"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1083,
+   "NAME": "Magnisia"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2134,
+   "NAME": "Maha Sarakham"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 56,
+   "NAME": "Maharashtra"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 796,
+   "NAME": "Maine"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 462,
+   "NAME": "Maine et Loire"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1228,
+   "NAME": "Makedonska Kamenica"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1229,
+   "NAME": "Makedonski Brod"
+  },
+  {
+   "ID_COUNTRY": 172,
+   "ID": 1570,
+   "NAME": "Malabo"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 660,
+   "NAME": "Málaga"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 251,
+   "NAME": "Malatya"
+  },
+  {
+   "ID_COUNTRY": 125,
+   "ID": 705,
+   "NAME": "Malawi"
+  },
+  {
+   "ID_COUNTRY": 76,
+   "ID": 371,
+   "NAME": "Malaysia"
+  },
+  {
+   "ID_COUNTRY": 200,
+   "ID": 706,
+   "NAME": "Maldives"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1650,
+   "NAME": "Maldonado"
+  },
+  {
+   "ID_COUNTRY": 133,
+   "ID": 663,
+   "NAME": "Mali"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1349,
+   "NAME": "Malopolskie"
+  },
+  {
+   "ID_COUNTRY": 86,
+   "ID": 1291,
+   "NAME": "Malta"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1808,
+   "NAME": "Manabí"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1878,
+   "NAME": "Managua"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 121,
+   "NAME": "Manawatu-Wanganui"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 463,
+   "NAME": "Manche"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 91,
+   "NAME": "Mangystauskaya (Mangyshlakskaya obl.)"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 55,
+   "NAME": "Manipur"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 252,
+   "NAME": "Manisa"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2053,
+   "NAME": "Manitoba"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1384,
+   "NAME": "Maramures"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1910,
+   "NAME": "Maranhao"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 564,
+   "NAME": "Marche - Ancona"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 565,
+   "NAME": "Marche - Ascoli Piceno"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 566,
+   "NAME": "Marche - Macerata"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 567,
+   "NAME": "Marche - Pesaro - Urbino"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2076,
+   "NAME": "María Trinidad Sánchez"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1550,
+   "NAME": "Maribor"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 167,
+   "NAME": "Marii El"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 71,
+   "NAME": "Markazi"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 122,
+   "NAME": "Marlborough"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 464,
+   "NAME": "Marne"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 797,
+   "NAME": "Marshall Islands"
+  },
+  {
+   "ID_COUNTRY": 57,
+   "ID": 223,
+   "NAME": "Mary Region"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 795,
+   "NAME": "Maryland"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1879,
+   "NAME": "Masaya"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 794,
+   "NAME": "Massachusetts"
+  },
+  {
+   "ID_COUNTRY": 241,
+   "ID": 1594,
+   "NAME": "Mata-Utu"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1880,
+   "NAME": "Matagalpa"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1888,
+   "NAME": "Matanzas"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1911,
+   "NAME": "Mato Grosso"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1909,
+   "NAME": "Mato Grosso do Sul"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1672,
+   "NAME": "Maule"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1155,
+   "NAME": "Mauren"
+  },
+  {
+   "ID_COUNTRY": 108,
+   "ID": 1565,
+   "NAME": "Mauritania"
+  },
+  {
+   "ID_COUNTRY": 202,
+   "ID": 671,
+   "NAME": "Mauritius"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 466,
+   "NAME": "Mayenne"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2023,
+   "NAME": "Mayo"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 76,
+   "NAME": "Mazenderan"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1350,
+   "NAME": "Mazowieckie"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2024,
+   "NAME": "Meath"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 837,
+   "NAME": "Mecklenburg-Vorpommern"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1045,
+   "NAME": "Medimurska"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1475,
+   "NAME": "Medvode"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 57,
+   "NAME": "Megahalaya"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1385,
+   "NAME": "Mehedinti"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 647,
+   "NAME": "Melilla"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1830,
+   "NAME": "Mendoza"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1476,
+   "NAME": "Menges"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1855,
+   "NAME": "Mérida"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1099,
+   "NAME": "Messinia"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2221,
+   "NAME": "Meta"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 467,
+   "NAME": "Meurthe-et-Moselle"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 468,
+   "NAME": "Meuse"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1747,
+   "NAME": "México"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1478,
+   "NAME": "Mezica"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 798,
+   "NAME": "Michigan"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1748,
+   "NAME": "Michoacán de Ocampo"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 336,
+   "NAME": "Mie"
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 18,
+   "NAME": "Mien Nui Va Trung Du"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1007,
+   "NAME": "Mikhaylovgrad"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1912,
+   "NAME": "Minas Gerais"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 799,
+   "NAME": "Minnesota"
+  },
+  {
+   "ID_COUNTRY": 7,
+   "ID": 9,
+   "NAME": "Minskaya obl."
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1856,
+   "NAME": "Miranda"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1632,
+   "NAME": "Misiones"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1831,
+   "NAME": "Misiones"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1124,
+   "NAME": "Miskolc"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 802,
+   "NAME": "Mississippi"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 800,
+   "NAME": "Missouri"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 337,
+   "NAME": "Miyagi"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 338,
+   "NAME": "Miyazaki"
+  },
+  {
+   "ID_COUNTRY": 229,
+   "ID": 1591,
+   "NAME": "Mogadishu"
+  },
+  {
+   "ID_COUNTRY": 7,
+   "ID": 10,
+   "NAME": "Mogilevskaya obl."
+  },
+  {
+   "ID_COUNTRY": 43,
+   "ID": 115,
+   "NAME": "Moldova"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 577,
+   "NAME": "Molise - Campobasso"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 578,
+   "NAME": "Molise - Isernia"
+  },
+  {
+   "ID_COUNTRY": 44,
+   "ID": 1293,
+   "NAME": "Monaco"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1857,
+   "NAME": "Monagas"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2043,
+   "NAME": "Monaghan"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2087,
+   "NAME": "Monseñor Nouel"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 803,
+   "NAME": "Montana"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1017,
+   "NAME": "Montana"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2088,
+   "NAME": "Monte Cristi"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1411,
+   "NAME": "Monte Giardino"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2083,
+   "NAME": "Monte Plata"
+  },
+  {
+   "ID_COUNTRY": 44,
+   "ID": 1294,
+   "NAME": "Monte-Carlo"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1651,
+   "NAME": "Montevideo"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1613,
+   "NAME": "Moquegua"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1480,
+   "NAME": "Moravce"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 964,
+   "NAME": "Moravskoslezsky Kraj"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 469,
+   "NAME": "Morbihan"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 168,
+   "NAME": "Mordoviya"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 919,
+   "NAME": "More og Romsdal"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1749,
+   "NAME": "Morelos"
+  },
+  {
+   "ID_COUNTRY": 104,
+   "ID": 394,
+   "NAME": "Morocco"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1809,
+   "NAME": "Morona-Santiago"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 169,
+   "NAME": "Moscow Y Moscow Region"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 470,
+   "NAME": "Moselle"
+  },
+  {
+   "ID_COUNTRY": 140,
+   "ID": 392,
+   "NAME": "Mosul"
+  },
+  {
+   "ID_COUNTRY": 117,
+   "ID": 399,
+   "NAME": "Mozambique"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1482,
+   "NAME": "Mozirje"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 635,
+   "NAME": "Murcia"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1386,
+   "NAME": "Mures"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 170,
+   "NAME": "Murmanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1483,
+   "NAME": "Murska Sobota"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1234,
+   "NAME": "Murtino"
+  },
+  {
+   "ID_COUNTRY": 205,
+   "ID": 707,
+   "NAME": "Myanmar (Burma)"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1945,
+   "NAME": "Myrasysla"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 339,
+   "NAME": "Nagano"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 340,
+   "NAME": "Nagasaki"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 2000,
+   "NAME": "Nairobi Area"
+  },
+  {
+   "ID_COUNTRY": 3,
+   "ID": 3,
+   "NAME": "Nakhichevanskaya Region"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2137,
+   "NAME": "Nakhon Pathom"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2139,
+   "NAME": "Nakhon Ratchasima"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2140,
+   "NAME": "Nakhon Sawan"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2141,
+   "NAME": "Nakhon Si Thammarat"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 272,
+   "NAME": "Namangan Region"
+  },
+  {
+   "ID_COUNTRY": 102,
+   "ID": 668,
+   "NAME": "Namibia"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 881,
+   "NAME": "Namur"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1815,
+   "NAME": "Napo"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 341,
+   "NAME": "Nara"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2143,
+   "NAME": "Narathiwat"
+  },
+  {
+   "ID_COUNTRY": 3,
+   "ID": 2,
+   "NAME": "Nargorni Karabakh"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2222,
+   "NAME": "Narino"
+  },
+  {
+   "ID_COUNTRY": 34,
+   "ID": 106,
+   "NAME": "Narinskaya Region"
+  },
+  {
+   "ID_COUNTRY": 206,
+   "ID": 680,
+   "NAME": "Nauru"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 614,
+   "NAME": "Navarra"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 271,
+   "NAME": "Navoiy Region"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1750,
+   "NAME": "Nayarit"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1387,
+   "NAME": "Neamt"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 806,
+   "NAME": "Nebraska"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1633,
+   "NAME": "Neembucú"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1235,
+   "NAME": "Negotino"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1984,
+   "NAME": "Nei Mongol"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 2110,
+   "NAME": "Neimenggu"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 123,
+   "NAME": "Nelson"
+  },
+  {
+   "ID_COUNTRY": 107,
+   "ID": 708,
+   "NAME": "Nepal"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1946,
+   "NAME": "Neskaupstadur"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 734,
+   "NAME": "Neuchâtel"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1832,
+   "NAME": "Neuquén"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 810,
+   "NAME": "Nevada"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2050,
+   "NAME": "New Brunswick"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 807,
+   "NAME": "New Hampshire"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 808,
+   "NAME": "New Jersey"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 809,
+   "NAME": "New Mexico"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2011,
+   "NAME": "New South Wales"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 811,
+   "NAME": "New York"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2047,
+   "NAME": "Newfoundland"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 735,
+   "NAME": "Nidwalden"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 867,
+   "NAME": "Niederösterreich"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 838,
+   "NAME": "Niedersachsen"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 471,
+   "NAME": "Nièvre"
+  },
+  {
+   "ID_COUNTRY": 210,
+   "ID": 662,
+   "NAME": "Niger"
+  },
+  {
+   "ID_COUNTRY": 115,
+   "ID": 410,
+   "NAME": "Nigeria"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 342,
+   "NAME": "Niigata"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 292,
+   "NAME": "Nikolaevskaya obl."
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1985,
+   "NAME": "Ningxia"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1416,
+   "NAME": "Nitra"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 145,
+   "NAME": "Nizhegorodskaya obl."
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1125,
+   "NAME": "Nograd"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2144,
+   "NAME": "Nong Bua Lam Phu"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2145,
+   "NAME": "Nong Khai"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2146,
+   "NAME": "Nonthaburi"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2065,
+   "NAME": "Noord-Brabant"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2066,
+   "NAME": "Noord-Holland"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 472,
+   "NAME": "Nord"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 921,
+   "NAME": "Nord-Trondelag"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 946,
+   "NAME": "Nordjylland"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 920,
+   "NAME": "Nordland"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 839,
+   "NAME": "Nordrhein-Westfalen"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1947,
+   "NAME": "Nordur-Isafjardarsysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1948,
+   "NAME": "Nordur-Mulasysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1949,
+   "NAME": "Nordur-Tingeyjarsysla"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 899,
+   "NAME": "Norrbottens Lan"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2223,
+   "NAME": "Norte de Santander"
+  },
+  {
+   "ID_COUNTRY": 31,
+   "ID": 100,
+   "NAME": "North"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 804,
+   "NAME": "North Carolina"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 805,
+   "NAME": "North Dakota"
+  },
+  {
+   "ID_COUNTRY": 16,
+   "ID": 22,
+   "NAME": "North West"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 2001,
+   "NAME": "North-Eastern"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 40,
+   "NAME": "Northern District"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 856,
+   "NAME": "Northern Ireland"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 801,
+   "NAME": "Northern Mariana Islands"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2012,
+   "NAME": "Northern Territory"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 124,
+   "NAME": "Northland"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2058,
+   "NAME": "Northwest Territories"
+  },
+  {
+   "ID_COUNTRY": 208,
+   "ID": 1579,
+   "NAME": "Noumea"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1487,
+   "NAME": "Nova Gorica"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2048,
+   "NAME": "Nova Scotia"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 171,
+   "NAME": "Novgorodskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1552,
+   "NAME": "Novo Mesto"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1238,
+   "NAME": "Novo Selo"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 172,
+   "NAME": "Novosibirskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1318,
+   "NAME": "Nowy Sacz"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1858,
+   "NAME": "Nueva Esparta"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1881,
+   "NAME": "Nueva Segovia"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1751,
+   "NAME": "Nuevo León"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2057,
+   "NAME": "Nunavut"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 2002,
+   "NAME": "Nyanza"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1752,
+   "NAME": "Oaxaca"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 868,
+   "NAME": "Oberösterreich"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 736,
+   "NAME": "Obwalden"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 293,
+   "NAME": "Odesskaya obl."
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2030,
+   "NAME": "Offaly"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 812,
+   "NAME": "Ohio"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1240,
+   "NAME": "Ohrid"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 473,
+   "NAME": "Oise"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 2105,
+   "NAME": "Oita"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 343,
+   "NAME": "Okayama"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 344,
+   "NAME": "Okinawa"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 813,
+   "NAME": "Oklahoma"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1950,
+   "NAME": "Olafsfjordur"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 963,
+   "NAME": "Olomoucky Kraj"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1319,
+   "NAME": "Olsztyn"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1388,
+   "NAME": "Olt"
+  },
+  {
+   "ID_COUNTRY": 213,
+   "ID": 709,
+   "NAME": "Oman"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 173,
+   "NAME": "Omskaya obl."
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2052,
+   "NAME": "Ontario"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 876,
+   "NAME": "Oost-Vlaanderen"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1320,
+   "NAME": "Opole"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1351,
+   "NAME": "Opolskie"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 922,
+   "NAME": "Oppland"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 987,
+   "NAME": "Ordino"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 900,
+   "NAME": "Orebro Lan"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 814,
+   "NAME": "Oregon"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1816,
+   "NAME": "Orellana"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 174,
+   "NAME": "Orenburgskaya obl."
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 58,
+   "NAME": "Orissa"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1242,
+   "NAME": "Orizari"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 175,
+   "NAME": "Orlovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1489,
+   "NAME": "Ormoz"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 474,
+   "NAME": "Orne"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1781,
+   "NAME": "Oruro"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 345,
+   "NAME": "Osaka"
+  },
+  {
+   "ID_COUNTRY": 34,
+   "ID": 107,
+   "NAME": "Oshskaya Region"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1046,
+   "NAME": "Osjecko-Baranjska"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 923,
+   "NAME": "Oslo"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 901,
+   "NAME": "Ostergotlands Lan"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 924,
+   "NAME": "Ostfold"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1321,
+   "NAME": "Ostroleka"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 125,
+   "NAME": "Otago"
+  },
+  {
+   "ID_COUNTRY": 63,
+   "ID": 935,
+   "NAME": "Oulu"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 615,
+   "NAME": "Ourense"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2071,
+   "NAME": "Overijssel"
+  },
+  {
+   "ID_COUNTRY": 87,
+   "ID": 401,
+   "NAME": "Pakistan"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 817,
+   "NAME": "Palau"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 611,
+   "NAME": "Palencia"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1773,
+   "NAME": "Panamá"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1782,
+   "NAME": "Pando"
+  },
+  {
+   "ID_COUNTRY": 178,
+   "ID": 1572,
+   "NAME": "Papeete"
+  },
+  {
+   "ID_COUNTRY": 88,
+   "ID": 675,
+   "NAME": "Papua New Guinea"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1913,
+   "NAME": "Para"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1634,
+   "NAME": "Paraguarí"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1914,
+   "NAME": "Paraiba"
+  },
+  {
+   "ID_COUNTRY": 54,
+   "ID": 215,
+   "NAME": "Paramaribo"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1915,
+   "NAME": "Parana"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 965,
+   "NAME": "Pardubicky Kraj"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 485,
+   "NAME": "Paris"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 475,
+   "NAME": "Pas-de-Calais"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1614,
+   "NAME": "Pasco"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1810,
+   "NAME": "Pastaza"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2147,
+   "NAME": "Pathum Thani"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2148,
+   "NAME": "Pattani"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 92,
+   "NAME": "Pavlodarskaya obl."
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1652,
+   "NAME": "Paysandú"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1018,
+   "NAME": "Pazardzhik"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1126,
+   "NAME": "Pecs"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2099,
+   "NAME": "Pedernales"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1066,
+   "NAME": "Pella"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 815,
+   "NAME": "Pennsylvania"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 176,
+   "NAME": "Penzenskaya obl."
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2080,
+   "NAME": "Peravia"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 177,
+   "NAME": "Permskiy krai"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1926,
+   "NAME": "Pernambuco"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1019,
+   "NAME": "Pernik"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1491,
+   "NAME": "Pesnica"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1127,
+   "NAME": "Pest"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1687,
+   "NAME": "Petén"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1245,
+   "NAME": "Petrovec"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2149,
+   "NAME": "Phangnga"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2150,
+   "NAME": "Phatthalung"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2154,
+   "NAME": "Phichit"
+  },
+  {
+   "ID_COUNTRY": 90,
+   "ID": 674,
+   "NAME": "Philippines"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2155,
+   "NAME": "Phitsanulok"
+  },
+  {
+   "ID_COUNTRY": 195,
+   "ID": 2008,
+   "NAME": "Phoenix Islands"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2156,
+   "NAME": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2157,
+   "NAME": "Phrae"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2158,
+   "NAME": "Phuket"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1916,
+   "NAME": "Piaui"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1811,
+   "NAME": "Pichincha"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 507,
+   "NAME": "Piemonte - Alessandria"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 508,
+   "NAME": "Piemonte - Asti"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 509,
+   "NAME": "Piemonte - Biella"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 510,
+   "NAME": "Piemonte - Cuneo"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 511,
+   "NAME": "Piemonte - Novara"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 506,
+   "NAME": "Piemonte - Torino"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 512,
+   "NAME": "Piemonte - Verbania"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 513,
+   "NAME": "Piemonte - Vercelli"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1075,
+   "NAME": "Pieria"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1322,
+   "NAME": "Pila"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1886,
+   "NAME": "Pinar del Rio"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1323,
+   "NAME": "Piotrkow"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1553,
+   "NAME": "Piran"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1615,
+   "NAME": "Piura"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1156,
+   "NAME": "Planken"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1020,
+   "NAME": "Pleven"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1324,
+   "NAME": "Plock"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1021,
+   "NAME": "Plovdiv"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 966,
+   "NAME": "Plzensky Kraj"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1352,
+   "NAME": "Podkarpackie"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1353,
+   "NAME": "Podlaskie"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 294,
+   "NAME": "Poltavskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1354,
+   "NAME": "Pomorskie"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 60,
+   "NAME": "Pondisheri"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 645,
+   "NAME": "Pontevedra"
+  },
+  {
+   "ID_COUNTRY": 237,
+   "ID": 1593,
+   "NAME": "Port of Spain"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 761,
+   "NAME": "Portalegre"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 762,
+   "NAME": "Porto"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1859,
+   "NAME": "Portuguesa"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1494,
+   "NAME": "Postojna"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1783,
+   "NAME": "Potosí"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1047,
+   "NAME": "Pozesko-Slavonska"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1325,
+   "NAME": "Poznan"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2159,
+   "NAME": "Prachin Buri"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2160,
+   "NAME": "Prachuap Khiri Khan"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1389,
+   "NAME": "Prahova"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1554,
+   "NAME": "Preddvor"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1635,
+   "NAME": "Presidente Hayes"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1417,
+   "NAME": "Presov"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1078,
+   "NAME": "Preveza"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1248,
+   "NAME": "Prilep"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 178,
+   "NAME": "Primorskii krai"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1048,
+   "NAME": "Primorsko-Goranska"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2049,
+   "NAME": "Prince Edward Island"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1249,
+   "NAME": "Probistip"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1326,
+   "NAME": "Przemysl"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 179,
+   "NAME": "Pskovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1555,
+   "NAME": "Ptuj"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1753,
+   "NAME": "Puebla"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2074,
+   "NAME": "Puerto Plata"
+  },
+  {
+   "ID_COUNTRY": 246,
+   "ID": 816,
+   "NAME": "Puerto Rico"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 584,
+   "NAME": "Puglia - Bari"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 585,
+   "NAME": "Puglia - Brindisi"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 586,
+   "NAME": "Puglia - Foggia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 587,
+   "NAME": "Puglia - Lecce"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 588,
+   "NAME": "Puglia - Taranto"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 59,
+   "NAME": "Punjab"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1616,
+   "NAME": "Puno"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1792,
+   "NAME": "Puntarenas"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 316,
+   "NAME": "Pusan"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2224,
+   "NAME": "Putumayo"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 476,
+   "NAME": "Puy-de-Dôme"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 477,
+   "NAME": "Pyrénées-Atlantiques"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 479,
+   "NAME": "Pyrénées-Orientales"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 269,
+   "NAME": "Qaraqalpaqstan"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 270,
+   "NAME": "Qashqadaryo Region"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1971,
+   "NAME": "Qinghai"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2051,
+   "NAME": "Quebec"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2013,
+   "NAME": "Queensland"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1754,
+   "NAME": "Querétaro de Arteaga"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1688,
+   "NAME": "Quetzaltenango"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1689,
+   "NAME": "Quiché"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2225,
+   "NAME": "Quindío"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1755,
+   "NAME": "Quintana Roo"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1497,
+   "NAME": "Radece"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1498,
+   "NAME": "Radenci"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1327,
+   "NAME": "Radom"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1250,
+   "NAME": "Radovis"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1500,
+   "NAME": "Radovljica"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 2045,
+   "NAME": "Raimirskii (Dolgano-Nenetskii) AO"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 61,
+   "NAME": "Rajasthan"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 409,
+   "NAME": "Ramat Hagolan"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1951,
+   "NAME": "Rangarvallasysla"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2162,
+   "NAME": "Ratchaburi"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2163,
+   "NAME": "Rayong"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1022,
+   "NAME": "Razgrad"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1673,
+   "NAME": "Region Metropolitana"
+  },
+  {
+   "ID_COUNTRY": 79,
+   "ID": 1005,
+   "NAME": "Republika Srpska"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1252,
+   "NAME": "Resen"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 2046,
+   "NAME": "Respublica Tiva"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1690,
+   "NAME": "Retalhuleu"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1103,
+   "NAME": "Rethimni"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1952,
+   "NAME": "Reykjavik"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 840,
+   "NAME": "Rheinland-Pfalz"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 818,
+   "NAME": "Rhode Island"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 455,
+   "NAME": "Rhône"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 947,
+   "NAME": "Ribe"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1556,
+   "NAME": "Ribnica"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 2003,
+   "NAME": "Rift Valley"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 948,
+   "NAME": "Ringkobing"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1917,
+   "NAME": "Rio de Janeiro"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1918,
+   "NAME": "Rio Grande do Norte"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1919,
+   "NAME": "Rio Grande do Sul"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1653,
+   "NAME": "Río Negro"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1833,
+   "NAME": "Río Negro"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1882,
+   "NAME": "Rio San Juan"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2226,
+   "NAME": "Risaralda"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1883,
+   "NAME": "Rivas"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1654,
+   "NAME": "Rivera"
+  },
+  {
+   "ID_COUNTRY": 154,
+   "ID": 1567,
+   "NAME": "Road Town"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1655,
+   "NAME": "Rocha"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1061,
+   "NAME": "Rodhopi"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 925,
+   "NAME": "Rogaland"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1502,
+   "NAME": "Rogaska Slatina"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2164,
+   "NAME": "Roi Et"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1920,
+   "NAME": "Rondonia"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1921,
+   "NAME": "Roraima"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2034,
+   "NAME": "Roscommon"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 949,
+   "NAME": "Roskilde"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1253,
+   "NAME": "Rosoman"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 180,
+   "NAME": "Rostovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 295,
+   "NAME": "Rovenskaya obl."
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1157,
+   "NAME": "Ruggell"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1023,
+   "NAME": "Ruse"
+  },
+  {
+   "ID_COUNTRY": 217,
+   "ID": 710,
+   "NAME": "Rwanda"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 181,
+   "NAME": "Ryazanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1328,
+   "NAME": "Rzeszow"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2165,
+   "NAME": "Sa Kaeo"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 847,
+   "NAME": "Saarland"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1691,
+   "NAME": "Sacatepéquez"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 842,
+   "NAME": "Sachsen"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 843,
+   "NAME": "Sachsen-Anhalt"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 346,
+   "NAME": "Saga"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 185,
+   "NAME": "Saha (Yakutiya)"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 186,
+   "NAME": "Sahalin"
+  },
+  {
+   "ID_COUNTRY": 193,
+   "ID": 1576,
+   "NAME": "Saint Helier"
+  },
+  {
+   "ID_COUNTRY": 221,
+   "ID": 1586,
+   "NAME": "Saint Pierre"
+  },
+  {
+   "ID_COUNTRY": 49,
+   "ID": 132,
+   "NAME": "Saint-Denis"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 183,
+   "NAME": "Saint-Petersburg and Region"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 347,
+   "NAME": "Saitama"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 253,
+   "NAME": "Sakarya"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2166,
+   "NAME": "Sakon Nakhon"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1390,
+   "NAME": "Salaj"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 636,
+   "NAME": "Salamanca"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2084,
+   "NAME": "Salcedo"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1834,
+   "NAME": "Salta"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1656,
+   "NAME": "Salto"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 869,
+   "NAME": "Salzburg"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2100,
+   "NAME": "Samaná"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 273,
+   "NAME": "Samarqand Region"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 182,
+   "NAME": "Samarskaya obl."
+  },
+  {
+   "ID_COUNTRY": 223,
+   "ID": 679,
+   "NAME": "Samoa"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1107,
+   "NAME": "Samos"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 254,
+   "NAME": "Samsun"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2167,
+   "NAME": "Samut Prakan"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2168,
+   "NAME": "Samut Sakhon"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2169,
+   "NAME": "Samut Songkhran"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2227,
+   "NAME": "San Andrés y Providencia"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1774,
+   "NAME": "San Blas"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2079,
+   "NAME": "San Cristóbal"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1657,
+   "NAME": "San José"
+  },
+  {
+   "ID_COUNTRY": 36,
+   "ID": 1793,
+   "NAME": "San José"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2102,
+   "NAME": "San José de Ocoa"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1835,
+   "NAME": "San Juan"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2086,
+   "NAME": "San Juan"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1836,
+   "NAME": "San Luis"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1756,
+   "NAME": "San Luis Potosí"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1692,
+   "NAME": "San Marcos"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1410,
+   "NAME": "San Marino"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1617,
+   "NAME": "San Martín"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 211,
+   "NAME": "San Miguel"
+  },
+  {
+   "ID_COUNTRY": 110,
+   "ID": 1636,
+   "NAME": "San Pedro"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2092,
+   "NAME": "San Pedro de Macorís"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 212,
+   "NAME": "San Salvador"
+  },
+  {
+   "ID_COUNTRY": 225,
+   "ID": 1588,
+   "NAME": "San Tome"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2090,
+   "NAME": "Sánchez Ramírez"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1898,
+   "NAME": "Sancti Spiritus"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 737,
+   "NAME": "Sankt Gallen"
+  },
+  {
+   "ID_COUNTRY": 145,
+   "ID": 988,
+   "NAME": "Sant Julia de Loria"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 213,
+   "NAME": "Santa Ana"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1922,
+   "NAME": "Santa Catarina"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1784,
+   "NAME": "Santa Cruz"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1837,
+   "NAME": "Santa Cruz"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 625,
+   "NAME": "Santa Cruz de Tenerife"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1838,
+   "NAME": "Santa Fe"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1693,
+   "NAME": "Santa Rosa"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2228,
+   "NAME": "Santander"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 763,
+   "NAME": "Santarem"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2078,
+   "NAME": "Santiago"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1899,
+   "NAME": "Santiago de Cuba"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1839,
+   "NAME": "Santiago del Estero"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2101,
+   "NAME": "Santiago Rodríguez"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 387,
+   "NAME": "Santo Domingo"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1923,
+   "NAME": "Sao Paulo"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 434,
+   "NAME": "Saône et Loire"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2170,
+   "NAME": "Saraburi"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1256,
+   "NAME": "Saraj"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 184,
+   "NAME": "Saratovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 605,
+   "NAME": "Sardegna - Cagliari"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 606,
+   "NAME": "Sardegna - Nuoro"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 607,
+   "NAME": "Sardegna - Oristano"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 608,
+   "NAME": "Sardegna - Sassari"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 483,
+   "NAME": "Sarthe"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2054,
+   "NAME": "Saskatchewan"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1391,
+   "NAME": "Satu Mare"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1953,
+   "NAME": "Saudarkrokur"
+  },
+  {
+   "ID_COUNTRY": 91,
+   "ID": 711,
+   "NAME": "Saudi Arabia"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 484,
+   "NAME": "Savoie"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1158,
+   "NAME": "Schaan"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 738,
+   "NAME": "Schaffhausen"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 2108,
+   "NAME": "Schanghai"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1159,
+   "NAME": "Schellenberg"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 841,
+   "NAME": "Schleswig-Holstein"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 740,
+   "NAME": "Schwyz"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 861,
+   "NAME": "Scotland Central"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 848,
+   "NAME": "Scotland North"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 862,
+   "NAME": "Scotland South"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 616,
+   "NAME": "Segovia"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 487,
+   "NAME": "Seine-et-Marne"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 486,
+   "NAME": "Seine-Maritime"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 503,
+   "NAME": "Seine-Saint-Denis"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1505,
+   "NAME": "Sencur"
+  },
+  {
+   "ID_COUNTRY": 135,
+   "ID": 1566,
+   "NAME": "Senegal"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1506,
+   "NAME": "Sentilj"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1558,
+   "NAME": "Sentjur pri Celju"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 317,
+   "NAME": "Seoul"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1924,
+   "NAME": "Sergipe"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1064,
+   "NAME": "Serrai"
+  },
+  {
+   "ID_COUNTRY": 224,
+   "ID": 1412,
+   "NAME": "Serravalle"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 764,
+   "NAME": "Setubal"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 188,
+   "NAME": "Severnaya Osetiya"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 93,
+   "NAME": "Severo-Kazahstanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 651,
+   "NAME": "Sevilla"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1508,
+   "NAME": "Sevnica"
+  },
+  {
+   "ID_COUNTRY": 109,
+   "ID": 1564,
+   "NAME": "Seychelles"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1954,
+   "NAME": "Seydisfjordur"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1509,
+   "NAME": "Sezana"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1990,
+   "NAME": "Shaanxi"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1989,
+   "NAME": "Shandong"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1987,
+   "NAME": "Shanghai"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1988,
+   "NAME": "Shanxi"
+  },
+  {
+   "ID_COUNTRY": 93,
+   "ID": 406,
+   "NAME": "Sharjah"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 348,
+   "NAME": "Shiga"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 350,
+   "NAME": "Shimane"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 998,
+   "NAME": "Shirak"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 349,
+   "NAME": "Shizuoka"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 980,
+   "NAME": "Shkoder"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1024,
+   "NAME": "Shumen"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2172,
+   "NAME": "Si Sa Ket"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1049,
+   "NAME": "Sibensko-Kninska"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1392,
+   "NAME": "Sibiu"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1991,
+   "NAME": "Sichuan"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 597,
+   "NAME": "Sicilia - Agrigento"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 598,
+   "NAME": "Sicilia - Caltanissetta"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 599,
+   "NAME": "Sicilia - Catania"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 600,
+   "NAME": "Sicilia - Enna"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 601,
+   "NAME": "Sicilia - Messina"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 596,
+   "NAME": "Sicilia - Palermo"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 602,
+   "NAME": "Sicilia - Ragusa"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 603,
+   "NAME": "Sicilia - Siracusa"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 604,
+   "NAME": "Sicilia - Trapani"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1329,
+   "NAME": "Siedlce"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1330,
+   "NAME": "Sieradz"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1025,
+   "NAME": "Silistra"
+  },
+  {
+   "ID_COUNTRY": 23,
+   "ID": 389,
+   "NAME": "Sinai"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1757,
+   "NAME": "Sinaloa"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2173,
+   "NAME": "Sing Buri"
+  },
+  {
+   "ID_COUNTRY": 77,
+   "ID": 372,
+   "NAME": "Singapore"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 275,
+   "NAME": "Sirdaryo Region"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1050,
+   "NAME": "Sisacko-Moslavacka"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 72,
+   "NAME": "Sistan-e Baluches"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 255,
+   "NAME": "Sivas"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1956,
+   "NAME": "Skagafjardarsysla"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 910,
+   "NAME": "Skane Lan"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1331,
+   "NAME": "Skierniewice"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1511,
+   "NAME": "Skofja Loka"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 2106,
+   "NAME": "Skopje"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1355,
+   "NAME": "Slaskie"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2035,
+   "NAME": "Sligo"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1026,
+   "NAME": "Sliven"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1513,
+   "NAME": "Slovenj Gradec"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1559,
+   "NAME": "Slovenska Bistrica"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1514,
+   "NAME": "Slovenske Konjice"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1332,
+   "NAME": "Slupsk"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1515,
+   "NAME": "Smarje pri Jelsah"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 189,
+   "NAME": "Smolenskaya obl."
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1027,
+   "NAME": "Smolyan"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1957,
+   "NAME": "Snafellsnes- og Hnappadalssysla"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 903,
+   "NAME": "Sodermanlands Lan"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1028,
+   "NAME": "Sofiya"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 926,
+   "NAME": "Sogn og Fjordane"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1694,
+   "NAME": "Sololá"
+  },
+  {
+   "ID_COUNTRY": 228,
+   "ID": 676,
+   "NAME": "Solomon Islands"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 739,
+   "NAME": "Solothurn"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 490,
+   "NAME": "Somme"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1128,
+   "NAME": "Somogy"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 950,
+   "NAME": "Sonderjylland"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2174,
+   "NAME": "Songkhla"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1758,
+   "NAME": "Sonora"
+  },
+  {
+   "ID_COUNTRY": 51,
+   "ID": 214,
+   "NAME": "Sonsonate"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 927,
+   "NAME": "Sor-Trondelag"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 610,
+   "NAME": "Soria"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1658,
+   "NAME": "Soriano"
+  },
+  {
+   "ID_COUNTRY": 16,
+   "ID": 24,
+   "NAME": "South"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2014,
+   "NAME": "South Australia"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 819,
+   "NAME": "South Carolina"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 820,
+   "NAME": "South Dakota"
+  },
+  {
+   "ID_COUNTRY": 16,
+   "ID": 25,
+   "NAME": "South East"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 404,
+   "NAME": "South Korea"
+  },
+  {
+   "ID_COUNTRY": 21,
+   "ID": 31,
+   "NAME": "South Ossetia"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 38,
+   "NAME": "Southern District"
+  },
+  {
+   "ID_COUNTRY": 63,
+   "ID": 936,
+   "NAME": "Southern Finland"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 126,
+   "NAME": "Southland"
+  },
+  {
+   "ID_COUNTRY": 31,
+   "ID": 99,
+   "NAME": "Southwest Region"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1051,
+   "NAME": "Splitsko-Dalmatinska"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1260,
+   "NAME": "Srbinovo"
+  },
+  {
+   "ID_COUNTRY": 120,
+   "ID": 712,
+   "NAME": "Sri Lanka"
+  },
+  {
+   "ID_COUNTRY": 184,
+   "ID": 1573,
+   "NAME": "St Georges"
+  },
+  {
+   "ID_COUNTRY": 186,
+   "ID": 1574,
+   "NAME": "St Peter Port"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 945,
+   "NAME": "Staden Kobenhavn"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1262,
+   "NAME": "Star Dojran"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1029,
+   "NAME": "Stara Zagora"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 190,
+   "NAME": "Stavropolskii krai"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 870,
+   "NAME": "Steiermark"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1264,
+   "NAME": "Stip"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 909,
+   "NAME": "Stockholms Lan"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 951,
+   "NAME": "Storstrom"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1958,
+   "NAME": "Strandasysla"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 967,
+   "NAME": "Stredocesky Kraj"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1265,
+   "NAME": "Struga"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1266,
+   "NAME": "Strumica"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1267,
+   "NAME": "Studenicani"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1393,
+   "NAME": "Suceava"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1695,
+   "NAME": "Suchitepequez"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1860,
+   "NAME": "Sucre"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2229,
+   "NAME": "Sucre"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1814,
+   "NAME": "Sucumbíos"
+  },
+  {
+   "ID_COUNTRY": 232,
+   "ID": 713,
+   "NAME": "Sudan"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1959,
+   "NAME": "Sudur-Mulasysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1960,
+   "NAME": "Sudur-Tingeyjarsysla"
+  },
+  {
+   "ID_COUNTRY": 56,
+   "ID": 219,
+   "NAME": "Sughd Region"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2175,
+   "NAME": "Sukhothai"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 296,
+   "NAME": "Sumskaya obl."
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2176,
+   "NAME": "Suphan Buri"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2177,
+   "NAME": "Surat Thani"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2178,
+   "NAME": "Surin"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 274,
+   "NAME": "Surxondaryo Region"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1268,
+   "NAME": "Suto Orizari"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1333,
+   "NAME": "Suwalki"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 187,
+   "NAME": "Sverdlovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1269,
+   "NAME": "Sveti Nikole"
+  },
+  {
+   "ID_COUNTRY": 234,
+   "ID": 714,
+   "NAME": "Swaziland"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1356,
+   "NAME": "Swietokrzyskie"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 999,
+   "NAME": "Syunik"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1129,
+   "NAME": "Szabolcs-Szatmar-Bereg"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1130,
+   "NAME": "Szeged"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1759,
+   "NAME": "Tabasco"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1861,
+   "NAME": "Táchira"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1618,
+   "NAME": "Tacna"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1659,
+   "NAME": "Tacuarembó"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 318,
+   "NAME": "Taegu"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 319,
+   "NAME": "Taejeon"
+  },
+  {
+   "ID_COUNTRY": 78,
+   "ID": 373,
+   "NAME": "Taiwan"
+  },
+  {
+   "ID_COUNTRY": 56,
+   "ID": 220,
+   "NAME": "Tajikistan"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 94,
+   "NAME": "Taldy-Kurganskaya obl."
+  },
+  {
+   "ID_COUNTRY": 34,
+   "ID": 108,
+   "NAME": "Tallaskaya Region"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1760,
+   "NAME": "Tamaulipas"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 191,
+   "NAME": "Tambovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 62,
+   "NAME": "Tamil Nadu"
+  },
+  {
+   "ID_COUNTRY": 104,
+   "ID": 395,
+   "NAME": "Tangier"
+  },
+  {
+   "ID_COUNTRY": 101,
+   "ID": 715,
+   "NAME": "Tanzania"
+  },
+  {
+   "ID_COUNTRY": 39,
+   "ID": 112,
+   "NAME": "Tarabulus"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 127,
+   "NAME": "Taranaki"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1674,
+   "NAME": "Tarapacá"
+  },
+  {
+   "ID_COUNTRY": 123,
+   "ID": 1785,
+   "NAME": "Tarija"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 491,
+   "NAME": "Tarn"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 492,
+   "NAME": "Tarn-et-Garonne"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1335,
+   "NAME": "Tarnobrzeg"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1336,
+   "NAME": "Tarnow"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 631,
+   "NAME": "Tarragona"
+  },
+  {
+   "ID_COUNTRY": 57,
+   "ID": 224,
+   "NAME": "Tashauz Region"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 276,
+   "NAME": "Tashkent Region"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 128,
+   "NAME": "Tasman"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2015,
+   "NAME": "Tasmania"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 192,
+   "NAME": "Tatarstan"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 1000,
+   "NAME": "Tavush"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1270,
+   "NAME": "Tearce"
+  },
+  {
+   "ID_COUNTRY": 137,
+   "ID": 386,
+   "NAME": "Tegucigalpa"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 77,
+   "NAME": "Tehran"
+  },
+  {
+   "ID_COUNTRY": 24,
+   "ID": 42,
+   "NAME": "Tel Aviv"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 928,
+   "NAME": "Telemark"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1394,
+   "NAME": "Teleorman"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 821,
+   "NAME": "Tennessee"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 297,
+   "NAME": "Ternopolskaya obl."
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 500,
+   "NAME": "Territoire de Belfort"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 646,
+   "NAME": "Teruel"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1271,
+   "NAME": "Tetovo"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 822,
+   "NAME": "Texas"
+  },
+  {
+   "ID_COUNTRY": 15,
+   "ID": 19,
+   "NAME": "Thai Nguyen"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 398,
+   "NAME": "Thailand"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1077,
+   "NAME": "Thesprotia"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1072,
+   "NAME": "Thessaloniki"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 741,
+   "NAME": "Thurgau"
+  },
+  {
+   "ID_COUNTRY": 18,
+   "ID": 844,
+   "NAME": "Thüringen"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1992,
+   "NAME": "Tianjin"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 351,
+   "NAME": "Tiba"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 742,
+   "NAME": "Ticino"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1840,
+   "NAME": "Tierra del Fuego"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1395,
+   "NAME": "Timis"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2039,
+   "NAME": "Tipperary"
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 981,
+   "NAME": "Tirane"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 871,
+   "NAME": "Tirol"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1761,
+   "NAME": "Tlaxcala"
+  },
+  {
+   "ID_COUNTRY": 12,
+   "ID": 1927,
+   "NAME": "Tocantins"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 354,
+   "NAME": "Tochigi"
+  },
+  {
+   "ID_COUNTRY": 136,
+   "ID": 665,
+   "NAME": "Togo"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 353,
+   "NAME": "Tokushima"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 352,
+   "NAME": "Tokyo"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 629,
+   "NAME": "Toledo"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2230,
+   "NAME": "Tolima"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1521,
+   "NAME": "Tolmin"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1132,
+   "NAME": "Tolna"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 193,
+   "NAME": "Tomskaya obl."
+  },
+  {
+   "ID_COUNTRY": 236,
+   "ID": 716,
+   "NAME": "Tonga"
+  },
+  {
+   "ID_COUNTRY": 175,
+   "ID": 1571,
+   "NAME": "Torshavn"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1337,
+   "NAME": "Torun"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 553,
+   "NAME": "Toscana - Arezzo"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 552,
+   "NAME": "Toscana - Firenze"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 554,
+   "NAME": "Toscana - Grosseto"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 555,
+   "NAME": "Toscana - Livorno"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 556,
+   "NAME": "Toscana - Lucca"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 557,
+   "NAME": "Toscana - Massa Carrara"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 558,
+   "NAME": "Toscana - Pisa"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 559,
+   "NAME": "Toscana - Pistoia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 560,
+   "NAME": "Toscana - Prato"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 561,
+   "NAME": "Toscana - Siena"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1696,
+   "NAME": "Totonicapán"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 355,
+   "NAME": "Tottori"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 356,
+   "NAME": "Toyama"
+  },
+  {
+   "ID_COUNTRY": 59,
+   "ID": 257,
+   "NAME": "Trabzon"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2180,
+   "NAME": "Trang"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1522,
+   "NAME": "Trbovlje"
+  },
+  {
+   "ID_COUNTRY": 111,
+   "ID": 1660,
+   "NAME": "Treinta y Tres"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1418,
+   "NAME": "Trencin"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 527,
+   "NAME": "Trentino Alto Adige - Bolzano"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 526,
+   "NAME": "Trentino Alto Adige - Trento"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1160,
+   "NAME": "Triesen"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1161,
+   "NAME": "Triesenberg"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1081,
+   "NAME": "Trikala"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 63,
+   "NAME": "Tripura"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1419,
+   "NAME": "Trnava"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 929,
+   "NAME": "Troms"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1862,
+   "NAME": "Trujillo"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1524,
+   "NAME": "Trzic"
+  },
+  {
+   "ID_COUNTRY": 5,
+   "ID": 1841,
+   "NAME": "Tucumán"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1396,
+   "NAME": "Tulcea"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 195,
+   "NAME": "Tulskaya obl."
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1619,
+   "NAME": "Tumbes"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1812,
+   "NAME": "Tungurahua"
+  },
+  {
+   "ID_COUNTRY": 122,
+   "ID": 397,
+   "NAME": "Tunisia"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 95,
+   "NAME": "Turgaiskaya obl."
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1030,
+   "NAME": "Turgovishte"
+  },
+  {
+   "ID_COUNTRY": 33,
+   "ID": 103,
+   "NAME": "Turkish controlled area"
+  },
+  {
+   "ID_COUNTRY": 239,
+   "ID": 717,
+   "NAME": "Tuvalu"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 152,
+   "NAME": "Tverskaya obl."
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 196,
+   "NAME": "Tyumenskaya obl. i Hanty-Mansiiskii AO"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2182,
+   "NAME": "Ubon Ratchathani"
+  },
+  {
+   "ID_COUNTRY": 89,
+   "ID": 1620,
+   "NAME": "Ucayali"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 197,
+   "NAME": "Udmurtiya"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2183,
+   "NAME": "Udon Thani"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 375,
+   "NAME": "Ukraina"
+  },
+  {
+   "ID_COUNTRY": 139,
+   "ID": 388,
+   "NAME": "Ulan Bator"
+  },
+  {
+   "ID_COUNTRY": 69,
+   "ID": 320,
+   "NAME": "Ulsan"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 198,
+   "NAME": "Ulyanovskaya obl."
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 562,
+   "NAME": "Umbria - Perugia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 563,
+   "NAME": "Umbria - Terni"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 904,
+   "NAME": "Uppsala Lan"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 199,
+   "NAME": "Uralskaya obl."
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 743,
+   "NAME": "Uri"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 968,
+   "NAME": "Ustecky Kraj"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 823,
+   "NAME": "Utah"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2184,
+   "NAME": "Uthai Thani"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2067,
+   "NAME": "Utrecht"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 64,
+   "NAME": "Uttar Pradesh"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2185,
+   "NAME": "Uttaradit"
+  },
+  {
+   "ID_COUNTRY": 25,
+   "ID": 47,
+   "NAME": "Uttaranchal"
+  },
+  {
+   "ID_COUNTRY": 126,
+   "ID": 1162,
+   "NAME": "Vaduz"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 504,
+   "NAME": "Val-de-Marne"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 505,
+   "NAME": "Val-dOise"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 745,
+   "NAME": "Valais"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1273,
+   "NAME": "Valandovo"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1398,
+   "NAME": "Valcea"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 652,
+   "NAME": "València"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 637,
+   "NAME": "Valladolid"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 514,
+   "NAME": "Valle dAosta - Aosta"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2231,
+   "NAME": "Valle del Cauca"
+  },
+  {
+   "ID_COUNTRY": 81,
+   "ID": 1662,
+   "NAME": "Valparaíso"
+  },
+  {
+   "ID_COUNTRY": 138,
+   "ID": 2075,
+   "NAME": "Valverde"
+  },
+  {
+   "ID_COUNTRY": 240,
+   "ID": 677,
+   "NAME": "Vanuatu"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 493,
+   "NAME": "Var"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1052,
+   "NAME": "Varazdinska"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1867,
+   "NAME": "Vargas"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 905,
+   "NAME": "Varmlands Lan"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1031,
+   "NAME": "Varna"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1133,
+   "NAME": "Vas"
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1397,
+   "NAME": "Vaslui"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 906,
+   "NAME": "Vasterbottens Lan"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 907,
+   "NAME": "Vasternorrlands Lan"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 908,
+   "NAME": "Vastmanlands Lan"
+  },
+  {
+   "ID_COUNTRY": 67,
+   "ID": 911,
+   "NAME": "Vastra Gotaland"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 494,
+   "NAME": "Vaucluse"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 744,
+   "NAME": "Vaud"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2232,
+   "NAME": "Vaupés"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 1001,
+   "NAME": "Vayots Dzor"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 952,
+   "NAME": "Vejle"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1526,
+   "NAME": "Velenje"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1275,
+   "NAME": "Veles"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1032,
+   "NAME": "Veliko Turnovo"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 495,
+   "NAME": "Vendée"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 529,
+   "NAME": "Veneto - Belluno"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 530,
+   "NAME": "Veneto - Padova"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 531,
+   "NAME": "Veneto - Rovigo"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 532,
+   "NAME": "Veneto - Treviso"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 528,
+   "NAME": "Veneto - Venezia"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 533,
+   "NAME": "Veneto - Verona"
+  },
+  {
+   "ID_COUNTRY": 29,
+   "ID": 534,
+   "NAME": "Veneto - Vicenza"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1762,
+   "NAME": "Veracruz-Llave"
+  },
+  {
+   "ID_COUNTRY": 124,
+   "ID": 1775,
+   "NAME": "Veraguas"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 826,
+   "NAME": "Vermont"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 930,
+   "NAME": "Vest-Agder"
+  },
+  {
+   "ID_COUNTRY": 46,
+   "ID": 931,
+   "NAME": "Vestfold"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1961,
+   "NAME": "Vestmannaeyjar"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 953,
+   "NAME": "Vestsjalland"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1962,
+   "NAME": "Vestur-Bardastrandarsysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1964,
+   "NAME": "Vestur-Isafjardarsysla"
+  },
+  {
+   "ID_COUNTRY": 83,
+   "ID": 1965,
+   "NAME": "Vestur-Skaftafellssysla"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1134,
+   "NAME": "Veszprem"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1150,
+   "NAME": "Veszprem"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1277,
+   "NAME": "Vevcani"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 765,
+   "NAME": "Viana do Castelo"
+  },
+  {
+   "ID_COUNTRY": 22,
+   "ID": 954,
+   "NAME": "Viborg"
+  },
+  {
+   "ID_COUNTRY": 82,
+   "ID": 2233,
+   "NAME": "Vichada"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2016,
+   "NAME": "Victoria"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1560,
+   "NAME": "Videm"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1033,
+   "NAME": "Vidin"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 496,
+   "NAME": "Vienne"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 766,
+   "NAME": "Vila Real"
+  },
+  {
+   "ID_COUNTRY": 113,
+   "ID": 1900,
+   "NAME": "Villa Clara"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1278,
+   "NAME": "Vinica"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 279,
+   "NAME": "Vinnitskaya obl."
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1528,
+   "NAME": "Vipava"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 825,
+   "NAME": "Virgin Islands"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 824,
+   "NAME": "Virginia"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1053,
+   "NAME": "Viroviticko-Podravska"
+  },
+  {
+   "ID_COUNTRY": 48,
+   "ID": 767,
+   "NAME": "Viseu"
+  },
+  {
+   "ID_COUNTRY": 7,
+   "ID": 6,
+   "NAME": "Vitebskaya obl."
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 619,
+   "NAME": "Vizcaya"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 878,
+   "NAME": "Vlaams Brabant"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 141,
+   "NAME": "Vladimirskaya obl."
+  },
+  {
+   "ID_COUNTRY": 114,
+   "ID": 982,
+   "NAME": "Vlore"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1092,
+   "NAME": "Voiotia"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 142,
+   "NAME": "Volgogradskaya obl."
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 143,
+   "NAME": "Vologodskaya obl."
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 280,
+   "NAME": "Volynskaya obl."
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 872,
+   "NAME": "Vorarlberg"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 144,
+   "NAME": "Voronezhskaya obl."
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 498,
+   "NAME": "Vosges"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 83,
+   "NAME": "Vostochno-Kazahstanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 72,
+   "ID": 1399,
+   "NAME": "Vrancea"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1281,
+   "NAME": "Vrapciste"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1034,
+   "NAME": "Vratsa"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1531,
+   "NAME": "Vrhnika"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1054,
+   "NAME": "Vukovarsko-Srijemska"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1532,
+   "NAME": "Vuzenica"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 959,
+   "NAME": "Vysocina"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 129,
+   "NAME": "Waikato"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 324,
+   "NAME": "Wakayama"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1338,
+   "NAME": "Walbrzych"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 859,
+   "NAME": "Wales North"
+  },
+  {
+   "ID_COUNTRY": 13,
+   "ID": 858,
+   "NAME": "Wales South"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1357,
+   "NAME": "Warminsko-Mazurskie"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1339,
+   "NAME": "Warszawa"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 827,
+   "NAME": "Washington"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2040,
+   "NAME": "Waterford"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 130,
+   "NAME": "Wellington"
+  },
+  {
+   "ID_COUNTRY": 16,
+   "ID": 23,
+   "NAME": "West"
+  },
+  {
+   "ID_COUNTRY": 45,
+   "ID": 131,
+   "NAME": "West Coast"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 828,
+   "NAME": "West Virginia"
+  },
+  {
+   "ID_COUNTRY": 9,
+   "ID": 875,
+   "NAME": "West-Vlaanderen"
+  },
+  {
+   "ID_COUNTRY": 97,
+   "ID": 2004,
+   "NAME": "Western"
+  },
+  {
+   "ID_COUNTRY": 1,
+   "ID": 2017,
+   "NAME": "Western Australia"
+  },
+  {
+   "ID_COUNTRY": 63,
+   "ID": 938,
+   "NAME": "Western Finland"
+  },
+  {
+   "ID_COUNTRY": 242,
+   "ID": 718,
+   "NAME": "Western Sahara"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2031,
+   "NAME": "Westmeath"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2032,
+   "NAME": "Wexford"
+  },
+  {
+   "ID_COUNTRY": 27,
+   "ID": 2033,
+   "NAME": "Wicklow"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1358,
+   "NAME": "Wielkopolskie"
+  },
+  {
+   "ID_COUNTRY": 2,
+   "ID": 873,
+   "NAME": "Wien"
+  },
+  {
+   "ID_COUNTRY": 207,
+   "ID": 1578,
+   "NAME": "Willemstad"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 829,
+   "NAME": "Wisconsin"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1340,
+   "NAME": "Wloclawek"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1341,
+   "NAME": "Wroclaw"
+  },
+  {
+   "ID_COUNTRY": 55,
+   "ID": 830,
+   "NAME": "Wyoming"
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1062,
+   "NAME": "Xanthi"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1978,
+   "NAME": "Xinjiang"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1979,
+   "NAME": "Xizang"
+  },
+  {
+   "ID_COUNTRY": 61,
+   "ID": 278,
+   "NAME": "Xorazm Region"
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2186,
+   "NAME": "Yala"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 364,
+   "NAME": "Yamagata"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 365,
+   "NAME": "Yamaguchi"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 396,
+   "NAME": "Yamalo-Nenetskii AO"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 366,
+   "NAME": "Yamanashi"
+  },
+  {
+   "ID_COUNTRY": 11,
+   "ID": 1035,
+   "NAME": "Yambol"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1863,
+   "NAME": "Yaracuy"
+  },
+  {
+   "ID_COUNTRY": 50,
+   "ID": 205,
+   "NAME": "Yaroslavskaya obl."
+  },
+  {
+   "ID_COUNTRY": 92,
+   "ID": 2187,
+   "NAME": "Yasothon"
+  },
+  {
+   "ID_COUNTRY": 26,
+   "ID": 73,
+   "NAME": "Yazd"
+  },
+  {
+   "ID_COUNTRY": 243,
+   "ID": 719,
+   "NAME": "Yemen"
+  },
+  {
+   "ID_COUNTRY": 6,
+   "ID": 1002,
+   "NAME": "Yerevan"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 499,
+   "NAME": "Yonne"
+  },
+  {
+   "ID_COUNTRY": 70,
+   "ID": 363,
+   "NAME": "Yoshimi"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1763,
+   "NAME": "Yucatán"
+  },
+  {
+   "ID_COUNTRY": 32,
+   "ID": 2059,
+   "NAME": "Yukon Territory"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1993,
+   "NAME": "Yunnan"
+  },
+  {
+   "ID_COUNTRY": 64,
+   "ID": 488,
+   "NAME": "Yvelines"
+  },
+  {
+   "ID_COUNTRY": 185,
+   "ID": 1697,
+   "NAME": "Zacapa"
+  },
+  {
+   "ID_COUNTRY": 42,
+   "ID": 1764,
+   "NAME": "Zacatecas"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1359,
+   "NAME": "Zachodniopomorskie"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1055,
+   "NAME": "Zadarska"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1533,
+   "NAME": "Zagorje ob Savi"
+  },
+  {
+   "ID_COUNTRY": 71,
+   "ID": 1056,
+   "NAME": "Zagrebacka"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 284,
+   "NAME": "Zakarpatskaya obl."
+  },
+  {
+   "ID_COUNTRY": 20,
+   "ID": 1087,
+   "NAME": "Zakinthos"
+  },
+  {
+   "ID_COUNTRY": 14,
+   "ID": 1135,
+   "NAME": "Zala"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1562,
+   "NAME": "Zalec"
+  },
+  {
+   "ID_COUNTRY": 116,
+   "ID": 720,
+   "NAME": "Zambia"
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 612,
+   "NAME": "Zamora"
+  },
+  {
+   "ID_COUNTRY": 103,
+   "ID": 1813,
+   "NAME": "Zamora-Chinchipe"
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1342,
+   "NAME": "Zamosc"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 380,
+   "NAME": "Zapadno-Kazahstanskaya obl."
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 285,
+   "NAME": "Zaporozhskaya obl."
+  },
+  {
+   "ID_COUNTRY": 28,
+   "ID": 624,
+   "NAME": "Zaragoza"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2068,
+   "NAME": "Zeeland"
+  },
+  {
+   "ID_COUNTRY": 209,
+   "ID": 1884,
+   "NAME": "Zelaya"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1535,
+   "NAME": "Zelezniki"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1286,
+   "NAME": "Zelino"
+  },
+  {
+   "ID_COUNTRY": 30,
+   "ID": 85,
+   "NAME": "Zhambylskaya obl. (Dzhambulskaya obl.)"
+  },
+  {
+   "ID_COUNTRY": 35,
+   "ID": 1967,
+   "NAME": "Zhejiang"
+  },
+  {
+   "ID_COUNTRY": 62,
+   "ID": 283,
+   "NAME": "Zhitomirskaya obl."
+  },
+  {
+   "ID_COUNTRY": 47,
+   "ID": 1343,
+   "NAME": "Zielona Gora"
+  },
+  {
+   "ID_COUNTRY": 52,
+   "ID": 1420,
+   "NAME": "Zilina"
+  },
+  {
+   "ID_COUNTRY": 96,
+   "ID": 721,
+   "NAME": "Zimbabwe"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1536,
+   "NAME": "Ziri"
+  },
+  {
+   "ID_COUNTRY": 65,
+   "ID": 969,
+   "NAME": "Zlinsky Kraj"
+  },
+  {
+   "ID_COUNTRY": 53,
+   "ID": 1537,
+   "NAME": "Zrece"
+  },
+  {
+   "ID_COUNTRY": 85,
+   "ID": 1289,
+   "NAME": "Zrnovci"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 746,
+   "NAME": "Zug"
+  },
+  {
+   "ID_COUNTRY": 19,
+   "ID": 2069,
+   "NAME": "Zuid-Holland"
+  },
+  {
+   "ID_COUNTRY": 95,
+   "ID": 1864,
+   "NAME": "Zulia"
+  },
+  {
+   "ID_COUNTRY": 66,
+   "ID": 747,
+   "NAME": "Zürich"
+  }
+ ]
+}

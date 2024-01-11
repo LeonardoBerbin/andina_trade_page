@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Andina Trade</title>
+        <link rel="stylesheet" href="./src/css/all.css"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
+        <script>
+            var head = document.head || document.getElementsByTagName('head')[0];
+            var styleLink = document.createElement('link');
+            styleLink.rel = 'stylesheet';
+            styleLink.type = 'text/css';
+
+            if (navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i)) {
+                styleLink.href = './src/css/mob.css';
+            }
+            else styleLink.href = './src/css/dsk.css'; 
+            head.appendChild(styleLink);   
+        </script>
+    </head>
+    <body>
+        <header>
+          <img src="./src/assets/init.gif">
+          <h1>andina trade</h1>
+        </header>
+        <main>
+            <section id="quoter" class="quoter">
+                <legend class="origen">Origen: BOGOTA DC</legend>
+                <div class="ddv-container">
+                    <legend>profavor, ingrese su destino
+                            ( Para destinos internacionales, no son necesarios los campos region, ciudad y valor declarado )
+                    </legend>
+                    <label class="dest" for="countries">
+                      pais:
+                      <input id="countries" type="text"/>
+                      <ul></ul>
+                    </label>
+                    <label class="dest" for="states">
+                      region:
+                      <input id="states" type="text"/>
+                      <ul></ul>
+                    </label>
+                    <label class="dest" for="cities">
+                      ciudad
+                      <input id="cities" type="text"/>
+                      <ul></ul>
+                    </label>
+                    <label class="dest" for="declared-value">
+                      valor declarado:
+                      <input id="declared-value" type="text"/>
+                    </label>
+                </div>    
+                <div class="pkg-container">
+                    <legend>porfavor, ingrese los detalles de su servicio</legend>
+                    <label class="pkg-data" for="hight">
+                      alto:
+                      <input type="text" id="hight" data-und="cm">
+                    </label>
+                    <label class="pkg-data" for="broad">
+                      ancho:
+                      <input type="text" id="broad" data-und="cm">
+                    </label>
+                    <label class="pkg-data" for="long">
+                      largo:
+                      <input type="text" id="long" data-und="cm">
+                    </label>
+                    <label class="pkg-data" for="weight">
+                      peso:
+                      <input type="text" id="weight" data-und="kg">
+                    </label>
+                    <label class="pkg-data" for="amount">
+                      cantidad:
+                      <input type="text" id="amount" data-und="">
+                    </label>
+                    <button id="add" class="action">agregar</button>
+                    <button id="play" class="action">cotizar</button>
+                </div>
+                <div class="pkg-list">
+                    <table border="0">
+                        <thead>
+                            <tr>
+                                <td>destino</td>
+                                <td>peso (kg)</td>
+                                <td>vol (cm3)</td>
+                                <td>valor ($)</td>
+                                <td>cantidad</td>
+                                <td style="color: transparent;">🗑️</td>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                        </table>
+                </div>
+                <div id="result" class="result">
+                </div>
+            </section>
+            <section id="formats">
+              <legend>¡solicita tu servicio de recogida completamente gratis!</legend>
+              
+              <form id="send" action="https://formspree.io/f/xwkgpvaz" method="POST" onsubmit="return false">
+                <div id="sender" class="format-container">
+                  <legend>remitente</legend>
+                  <label class="camp" for="sender-ciudad">
+                    Ciudad
+                    <input type="text" value="Bogota (Cundinamarca)" readonly>
+                  </label>
+                  <label class="camp" for="sender-id">
+                    Documento de identidad:  
+                    <input id="sender-id" type="number" required>
+                  </label>
+                  <label class="camp" for="sender-name">
+                    Nombre(s):  
+                    <input id="sender-first-name" type="text" required>
+                  </label>
+                  <label class="camp" for="sender-last-name">
+                    Apellido(s): 
+                    <input id="sender-last-name" type="text" required>
+                  </label>
+                  <label class="camp" for="sender-phone">
+                    Telefono celular:
+                    <input id="sender-phone" type="number" required>
+                  </label>
+                  <label class="camp" for="sender-email">
+                    Email:
+                    <input type="email">
+                  </label>
+                  <label class="camp" for="sender-adress">
+                    Direccion: 
+                    <input id="sender-adress" type="text" required>
+                  </label>
+                  <textarea name="Remitente"></textarea>
+                </div>
+                <div id="addressee" class="format-container">
+                  <legend>destinatario</legend>
+                  <label class="camp" for="adressee-ciudad">
+                    Ciudad
+                    <input type="text">
+                  </label>
+                  <label class="camp" for="adressee-id">
+                    Documento de identidad:  
+                    <input id="adressee-id" type="number">
+                  </label>
+                  <label class="camp" for="adressee-name">
+                    Nombre(s):  
+                    <input id="adressee-first-name" type="text">
+                  </label>
+                  <label class="camp" for="adressee-last-name">
+                    Apellido(s): 
+                    <input id="adressee-last-name" type="text">
+                  </label>
+                  <label class="camp" for="adressee-phone">
+                    Telefono celular:
+                    <input id="adressee-phone" type="number">
+                  </label>
+                  <label class="camp" for="adressee-email">
+                    Email:
+                    <input type="email">
+                  </label>
+                  <label class="camp" for="adressee-adress">
+                    Direccion: 
+                    <input id="adressee-adress" type="text">
+                  </label>
+                  <label class="camp" for="addressee-postal">
+                    Codigo postal:
+                    <input id="addressee-postal" type="number">
+                  </label>
+                  <textarea name="Destinatario"></textarea>
+                </div>
+                <div id="packages" class="format-container">
+                  <label>
+                    Cantidad
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                  </label>
+                  <label>
+                    Peso (kg)
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                  </label>
+                  <label>
+                    Alto (cm)
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                  </label>
+                  <label>
+                    Ancho (cm)
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                  </label>
+                  <label>
+                    Largo (cm)
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                  </label>
+                  <label>
+                    Valor (COP)
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                    <input type="number">
+                  </label>
+                  <label>
+                    Contenido (Exacto)
+                    <input type="text">
+                    <input type="text">
+                    <input type="text">
+                    <input type="text">
+                    <input type="text">
+                  </label>
+                  <textarea name="packages"></textarea>
+                </div>
+              </form>
+              <div>
+                <a href="#sender">remitente</a>
+                <a href="#addressee">destinatario</a>
+                <a href="#packages">paquetes</a>
+                <input type="submit" form="send" value="enviar">
+              </div>
+              <div id="sending-form">
+                <img src="./src/assets/loading-result.gif">
+              </div>
+            </section>
+        </main>
+        <script type="module" src="./src/js/app.js"></script>
+
+    </body>
+</html>
