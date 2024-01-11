@@ -35,5 +35,5 @@ header {
     height: auto; 
     min-height: auto; 
     background-color: black;
-    transition: min-height .5; 
+    transition: min-height .5s; 
 }
