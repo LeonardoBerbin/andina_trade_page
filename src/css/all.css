@@ -41,3 +41,7 @@ header {
 header > img {
     width: 0; 
 }
+
+header > h1 {
+    font-size: 0
+}
