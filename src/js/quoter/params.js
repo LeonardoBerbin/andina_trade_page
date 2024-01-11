@@ -175,7 +175,7 @@ export const _declared_value = () => {
 
     const
     format = (string) => {
-        string = data.replace(/[^\d]/g, ''); 
+        string = string.replace(/[^\d]/g, ''); 
         if(data === '') return; 
         data.declared_value.value = isNaN(parseInt(string)) ? 0 : parseInt(string)
         input.value = '$ ' + data.declared_value.value.toLocaleString();
