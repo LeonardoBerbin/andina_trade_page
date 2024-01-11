@@ -37,3 +37,7 @@ header {
     background-color: black;
     transition: min-height .5s; 
 }
+
+header > img {
+    width: 0; 
+}
