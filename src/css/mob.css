@@ -31,7 +31,7 @@ body {
 
 /* Estilos del encabezado */
 header {
-  height: auto
+  height: auto;
   min-height: 100%;
   padding: 0;
   display: flex;
