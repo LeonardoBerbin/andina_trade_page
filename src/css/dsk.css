@@ -76,7 +76,7 @@ header > h1 {
 
 .ddv-container > legend, .pkg-container > legend {
     width: 100%;
-    background-color: teal;
+    background-color: rgb(0, 120, 175);
     color: white;
     border-radius: 0.5rem;
     border: 0.1rem solid white;
