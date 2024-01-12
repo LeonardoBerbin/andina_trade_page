@@ -18,7 +18,8 @@ body {
 
 /* Estilos de la sección principal */
 main {
-  height: 100%;
+  height: auto;
+  min-height: 100%;
   padding: 0;
   overflow: hidden;
   overflow-y: scroll; 
@@ -48,7 +49,7 @@ header > img {
   flex-direction: column;
   align-items: center;
   padding: 1rem;
-  background-image: url('../assets/iStock_000019501469_Small.jpg');
+  background-image: url('/src/assets/iStock_000019501469_Small.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -96,9 +97,9 @@ header > img {
 /* Estilos del quotér */
 .quoter {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   padding: 0.5rem;
-  background-image: url('../assets/iStock_000019501469_Small.jpg');
+  background-image: url('/src/assets/iStock_000019501469_Small.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -248,13 +249,14 @@ header > img {
 
 #formats {
   width: 100%;
-  height: 95%;
+  height: 100vh;
   display: grid;
+  align-items: flex-start;
   grid-template-rows: .5fr 3.5fr 1fr;
   grid-template-columns: 1fr;
   padding: 1rem .5rem;
   background-color: #ffffff;
-  background-image: url('../assets/iStock_000019501469_Small.jpg');
+  background-image: url('/src/assets/iStock_000019501469_Small.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
