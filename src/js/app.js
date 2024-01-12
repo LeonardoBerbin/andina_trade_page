@@ -3,11 +3,6 @@ import { _action } from './quoter/action.js';
 import { _input, _input_pkg} from './pickup-formats/format.js';
 import { _send } from './pickup-formats/send.js';
 
-window.onload = function(){
-    if(window.location.href !== window.location.href.split('#')[0])
-    window.location.href = window.location.href.split('#')[0]; 
-};
-
 const 
 ddv = document.querySelector('.ddv-container'),
 pkg = document.querySelector('.pkg-container'),
