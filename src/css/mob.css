@@ -265,7 +265,8 @@ header > img {
   grid-template-columns: repeat(3, 100%);
   overflow-y: scroll;
   overflow-x: hidden;
-  background-color: #000000cc;
+  background: linear-gradient(90deg, black, transparent, transparent, black);
+  border-radius: 1rem 0 0 1rem;
 }
 
 .format-container {
