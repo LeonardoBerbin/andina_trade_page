@@ -48,7 +48,7 @@ header > img {
   flex-direction: column;
   align-items: center;
   padding: 1rem;
-  background-image: url('../assets/iStock_000019501469_Small.jpg');
+  background-image: url('/src/assets/iStock_000019501469_Small.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -98,7 +98,7 @@ header > img {
   width: 100%;
   height: 100vh;
   padding: 0.5rem;
-  background-image: url('../assets/iStock_000019501469_Small.jpg');
+  background-image: url('/src/assets/iStock_000019501469_Small.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -248,14 +248,14 @@ header > img {
 
 #formats {
   width: 100%;
-  height: 95vh;
+  height: 100vh;
   display: grid;
   align-items: flex-start;
   grid-template-rows: .5fr 3.5fr 1fr;
   grid-template-columns: 1fr;
   padding: 1rem .5rem;
   background-color: #ffffff;
-  background-image: url('../assets/iStock_000019501469_Small.jpg');
+  background-image: url('/src/assets/iStock_000019501469_Small.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -265,8 +265,7 @@ header > img {
   grid-template-columns: repeat(3, 100%);
   overflow-y: scroll;
   overflow-x: hidden;
-  background: linear-gradient(90deg, black, transparent, transparent, black);
-  border-radius: 1rem 0 0 1rem;
+  background: #00000060;
 }
 
 .format-container {
@@ -289,7 +288,7 @@ header > img {
 }
 
 #formats > legend {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 #formats > div {
@@ -318,6 +317,7 @@ header > img {
 #packages {
   width: 100%;
   height: 100%;
+  padding-bottom: 2rem;
   display: flex;
   flex-wrap: wrap !important;
   flex-direction: row !important;
@@ -336,10 +336,9 @@ header > img {
 }
 
 #packages > label > input {
-  width: calc(100% - 1rem);
+  width: 100%;
   height: 15%;
   margin-top: .5rem;
-  box-shadow: 0 0 .1rem 0.05rem black;
   border-radius: 1rem;
   font-size: .9rem;
   text-align: center;
