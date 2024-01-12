@@ -63,8 +63,10 @@ const mobile = () => {
     
     document.onclick = function(){
         viewList.innerText = `ver lista\n( ${table.children[1].children.length} )`; 
-    }; 
-
+    };
+    
+    document.querySelector('#formats > div').appendChild(goQuoter.cloneNode(true)); 
+    
     setTimeout(function() {
         const header = document.querySelector('header');
         header.style.minHeight = '40vh';
@@ -78,7 +80,6 @@ const desktop = () => {
         setTimeout(function(){
             document.querySelector('header').style.alignItems = 'flex-start'; 
             document.querySelector('header > h1').style.minWidth = '0'; 
-            document.body.style.overflowY = 'scroll'; 
         }, 400)
     }, 2000)
 }
