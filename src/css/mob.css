@@ -247,7 +247,7 @@ header > img {
 
 #formats {
   width: 100%;
-  height: 100%;
+  height: 95%;
   display: grid;
   grid-template-rows: .5fr 3.5fr 1fr;
   grid-template-columns: 1fr;
