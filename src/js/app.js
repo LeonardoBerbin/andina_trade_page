@@ -44,7 +44,7 @@ const mobile = () => {
     viewList.classList.add('action');
     viewList.innerText = 'ver lista\n( 0 )';
 
-    viewList.addEventListener('touchend', () => {
+    viewList.addEventListener('click', () => {
         table.parentElement.style.right = 0; 
     })
 
@@ -52,7 +52,7 @@ const mobile = () => {
     close.innerText = '╳'; 
     close.classList.add('close'); 
 
-    close.addEventListener('touchend', () => {
+    close.addEventListener('click', () => {
         table.parentElement.style.right = '-100vw'; 
     }); 
 
@@ -62,11 +62,11 @@ const mobile = () => {
     pkg.insertBefore(goForm.cloneNode(true), viewList);
     
     document.onclick = function(){
-        viewList.innerText = `ver lista\n( ${table.children[1].children.length} )`; 
-    };
-    
+        viewList.innerText = `ver lista\n( ${table.children[1].children.length} )`;
+    }; 
+
     document.querySelector('#formats > div').appendChild(goQuoter.cloneNode(true)); 
-    
+
     setTimeout(function() {
         const header = document.querySelector('header');
         header.style.minHeight = '40vh';
