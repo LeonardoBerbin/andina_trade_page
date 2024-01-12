@@ -4,8 +4,14 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Andina Trade</title>
         <link rel="stylesheet" href="./src/css/all.css"/>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
+        <link rel="preload" as="style" href="./src/css/mob.css">
+        <link rel="preload" as="style" href="./src/css/dsk.css">
         <script>
+            window.onload = function(){
+                if(window.location.href !== window.location.href.split('#')[0])
+                window.location.href = window.location.href.split('#')[0]; 
+            };
+
             var head = document.head || document.getElementsByTagName('head')[0];
             var styleLink = document.createElement('link');
             styleLink.rel = 'stylesheet';
