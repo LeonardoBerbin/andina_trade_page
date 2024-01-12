@@ -248,7 +248,7 @@ header > img {
 
 #formats {
   width: 100%;
-  height: 100vh;
+  height: 95vh;
   display: grid;
   align-items: flex-start;
   grid-template-rows: .5fr 3.5fr 1fr;
