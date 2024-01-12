@@ -16,7 +16,7 @@ export const calc = (data) => {
                     });
             } 
             else {
-                return serch('coord_divisions', ['ZONE', 'JOURNEY'], [null, d[1]], ['ZONE', 'JOURNEY'])
+                return serch('coord_divisions', ['ZONE', 'JOURNEY', 'DT'], [null, d[1]], ['ZONE', 'JOURNEY'])
                 .then(result => {
                     return coord(result, d);
                 })
@@ -46,7 +46,8 @@ const dhl = (res, data) => {
         'Destino': data[2],
         'Peso liquidado' : weight + ' kg',
         'Cantidad': data[6],
-        'Total': '$ '
+        'Total': '$ ',
+        'Tiempo de entrega': '+' + (res[0].ZONE.ZONE * 2 + 1) + ' dias'
     }
 
     let range = Math.ceil(weight);
@@ -104,6 +105,7 @@ const coord = (res, data) => {
     obj['Flete fijo'] = '$ ' + ff.toLocaleString();
     obj['Flete variable'] = '$' + fv.toLocaleString()
     obj['Total'] = '$ ' + (ff + fv).toLocaleString();
+    obj['Tiempo de entrega'] = '+' +  res[0].DT + ' dias'; 
     
     return obj
 }
